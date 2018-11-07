@@ -1,10 +1,5 @@
 # Proyecto 3 BigData - TET
 
-**Contenidos:**
-- [Integrantes](Integrantes)
-
-
-
 ## Integrantes
 
 **Profesor:**
@@ -31,8 +26,11 @@
 	6.  Análisis de datos + tecnologías a utilizar.
 	
 - **[diseño+implementación.md:](diseño+implementacion.md)**
-- 
+
+	Aqui se aborda a profundidad la arquitectura del software a utilizar para la solución de nuestro proyecto.
+	
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE4NjEwODAsMjA1MzIyNjU4Nyw2OD
-I5MzUzOV19
+eyJoaXN0b3J5IjpbLTEwMzU3NjM5NjgsLTExNTE4NjEwODAsMj
+A1MzIyNjU4Nyw2ODI5MzUzOV19
 -->
