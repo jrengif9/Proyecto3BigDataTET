@@ -28,9 +28,13 @@
 - **[diseño+implementación.md:](diseño+implementacion.md)**
 
 	Aqui se aborda a profundidad la arquitectura del software a utilizar para la solución de nuestro proyecto.
+
+## Instalaciones
+
+Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnologías usadas.
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU3NjM5NjgsLTExNTE4NjEwODAsMj
-A1MzIyNjU4Nyw2ODI5MzUzOV19
+eyJoaXN0b3J5IjpbMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNT
+MyMjY1ODcsNjgyOTM1MzldfQ==
 -->
