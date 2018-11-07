@@ -19,6 +19,8 @@ Los datos de streaming son datos que se generan constantemente a partir de miles
 
 #### Storm
 
+#### Flink
+
 #### Flume
 
 ## Referencias
@@ -26,6 +28,6 @@ Los datos de streaming son datos que se generan constantemente a partir de miles
 [1] http://www.slmsc-project.eu/es/?page_id=2145
 [2] https://aws.amazon.com/es/streaming-data/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzI1NTY4MSw5OTA3NDYwOTgsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTI0NjA4MTg3LDk5MDc0NjA5OCwtMjA4OD
+c0NjYxMl19
 -->
