@@ -34,7 +34,12 @@ Apache Kafka es una plataforma distribuida de Streaming utilizada para construir
 [1] http://www.slmsc-project.eu/es/?page_id=2145
 [2] https://aws.amazon.com/es/streaming-data/
 [3] https://devs4j.com/2017/10/04/primeros-pasos-con-apache-kafka-en-espanol/
+[
+
+**Imagenes**
+
+[1] http://muxiulin.cn/wp-content/uploads/2017/11/2f5d8fc1-c11d-4f91-aa0b-cdac4bd097fa.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY2MjE5MTUsLTI0NjA4MTg3LDk5MD
-c0NjA5OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjAxMjY4NjAzOSwtMTgxNjYyMTkxNSwtMj
+Q2MDgxODcsOTkwNzQ2MDk4LC0yMDg4NzQ2NjEyXX0=
 -->
