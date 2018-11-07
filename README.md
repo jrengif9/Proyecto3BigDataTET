@@ -69,17 +69,18 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 
 ###**Crear Aplicacion en Twitter**
 	Despues de tener una cuenta en Twitter, se debe solicitar permisos de desarrollador , 
-	
+	**
 
 ### Spark-NLP
 	
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2MzA5MjEyLC0zMjA3NDc0LDE3MzE1Mj
-QyNTQsMTExODE3MTI1MSwxMTE3Nzg2MjU2LC03MDEzODE3MjIs
-LTE2ODgzNTE2ODksODU0NjMzMjQ5LC0xNjY2MDg5NDcsMTQxMj
-I4MjEyMSw5NzA1NDQ0MjksNjA3OTMxODM2LDUwMDIyNjkyOSwy
-MDAzNTMwMzc5LC0yMTE1MzAyNjIzLDMzNzI3ODA1MCwtMTE1MT
-g2MTA4MCwyMDUzMjI2NTg3LDY4MjkzNTM5XX0=
+eyJoaXN0b3J5IjpbMTQyODAzMzQzNiwyNDYzMDkyMTIsLTMyMD
+c0NzQsMTczMTUyNDI1NCwxMTE4MTcxMjUxLDExMTc3ODYyNTYs
+LTcwMTM4MTcyMiwtMTY4ODM1MTY4OSw4NTQ2MzMyNDksLTE2Nj
+YwODk0NywxNDEyMjgyMTIxLDk3MDU0NDQyOSw2MDc5MzE4MzYs
+NTAwMjI2OTI5LDIwMDM1MzAzNzksLTIxMTUzMDI2MjMsMzM3Mj
+c4MDUwLC0xMTUxODYxMDgwLDIwNTMyMjY1ODcsNjgyOTM1Mzld
+fQ==
 -->
