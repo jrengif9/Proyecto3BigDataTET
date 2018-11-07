@@ -4,7 +4,13 @@ Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas pro
 
 **Contenidos:**
 
-- [Problemáticas](#)
+- [Problemáticas](#Problemáticas)
+	- [Problemas abstracto](#Problema-abstracto)
+	- [Problema especifico](#Problema-especifico)
+- [Aquitectura preliminar](#)
+- [](#)
+
+
 
 
 
@@ -48,9 +54,9 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAxMDcwMTIsMTk2MDMwNjE1MSwzMT
-Q0ODMzMzEsLTEzMTU5NzkxNDMsMTg5MTIxOTc3MiwzNDY1MTE5
-OTYsMTQzMDk1ODI2MCwtMjEzNzgxOTAxOSwtNDg2Mzk4NDYyLC
-0xMjA1Mzc4MjEsLTE4MzA5ODE1NjAsLTIwODg3NDY2MTIsOTgz
-NjQ2NTA2XX0=
+eyJoaXN0b3J5IjpbMTIxODY2ODU3MCwxOTYwMzA2MTUxLDMxND
+Q4MzMzMSwtMTMxNTk3OTE0MywxODkxMjE5NzcyLDM0NjUxMTk5
+NiwxNDMwOTU4MjYwLC0yMTM3ODE5MDE5LC00ODYzOTg0NjIsLT
+EyMDUzNzgyMSwtMTgzMDk4MTU2MCwtMjA4ODc0NjYxMiw5ODM2
+NDY1MDZdfQ==
 -->
