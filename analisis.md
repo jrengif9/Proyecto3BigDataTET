@@ -66,16 +66,19 @@ El Sistema de archivos distribuidos de Hadoop (HDFS) es un sistema de archivos d
 
 ### Apache Hive
 
+Apache Hive es un proyecto de código abierto ejecutado por voluntarios en Apache Software Foundation. Anteriormente, era un subproyecto de **Apache® Hadoop®**, pero ahora se ha graduado para convertirse en un proyecto de alto nivel. Lo alentamos a que conozca el proyecto y aporte su experiencia.
+
 ## Análisis de datos + tecnologías a utilizar.
 
 ## Referencias
 
 - [1] https://flume.apache.org/
+- [2] https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDAzMDEzOSwtMTQxNTYxMzAsLTMxOT
-MwNjgxNywxMDgxMjM2MDc2LC0xMjY4MjI4MTg0LDE0NzQ3NTIw
-OTgsMTk2MDMwNjE1MSwzMTQ0ODMzMzEsLTEzMTU5NzkxNDMsMT
-g5MTIxOTc3MiwzNDY1MTE5OTYsMTQzMDk1ODI2MCwtMjEzNzgx
-OTAxOSwtNDg2Mzk4NDYyLC0xMjA1Mzc4MjEsLTE4MzA5ODE1Nj
-AsLTIwODg3NDY2MTIsOTgzNjQ2NTA2XX0=
+eyJoaXN0b3J5IjpbLTE1MDYwMjY0NDAsLTE0MTU2MTMwLC0zMT
+kzMDY4MTcsMTA4MTIzNjA3NiwtMTI2ODIyODE4NCwxNDc0NzUy
+MDk4LDE5NjAzMDYxNTEsMzE0NDgzMzMxLC0xMzE1OTc5MTQzLD
+E4OTEyMTk3NzIsMzQ2NTExOTk2LDE0MzA5NTgyNjAsLTIxMzc4
+MTkwMTksLTQ4NjM5ODQ2MiwtMTIwNTM3ODIxLC0xODMwOTgxNT
+YwLC0yMDg4NzQ2NjEyLDk4MzY0NjUwNl19
 -->
