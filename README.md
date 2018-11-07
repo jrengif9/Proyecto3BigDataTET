@@ -1,6 +1,8 @@
 # Proyecto 3 BigData - TET
 
 **Materia:** Tópicos especiales en telematica
+**Problema a trabajar:**
+	Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utilizando una de las siguientes tecnologías: Kafka, Storm, Flink o Flume.**
 
 
 **Contenidos:**
@@ -55,7 +57,7 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwMjI2OTI5LDIwMDM1MzAzNzksLTIxMT
-UzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNTMyMjY1
-ODcsNjgyOTM1MzldfQ==
+eyJoaXN0b3J5IjpbLTEyNzczNTkxNTQsNTAwMjI2OTI5LDIwMD
+M1MzAzNzksLTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYx
+MDgwLDIwNTMyMjY1ODcsNjgyOTM1MzldfQ==
 -->
