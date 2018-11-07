@@ -4,8 +4,8 @@
 - [Integrantes](#Integrantes)
 - [Documentación](#Documentación)
 	- [analisis-draft.md](analisis-draft.md)
-	-  [analisis.md:](analisis.md)
-	-  [diseño+implementación.md:](diseño+implementacion.md)
+	-  [analisis.md](analisis.md)
+	-  [diseño+implementación.md](diseño+implementacion.md)
 -  [Instalación y configuración](#Instalación-y-configuración)
 	- [Apache Flume](#Apache-Flume)
 	- [Spark-NLP](#Spark-NLP)
@@ -52,7 +52,7 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2MjY4MzM3LC0yMTE1MzAyNjIzLDMzNz
-I3ODA1MCwtMTE1MTg2MTA4MCwyMDUzMjI2NTg3LDY4MjkzNTM5
-XX0=
+eyJoaXN0b3J5IjpbMjAwMzUzMDM3OSwtMjExNTMwMjYyMywzMz
+cyNzgwNTAsLTExNTE4NjEwODAsMjA1MzIyNjU4Nyw2ODI5MzUz
+OV19
 -->
