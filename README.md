@@ -2,7 +2,7 @@
 
 **Contenidos**
 
-[Integrantes](Integrantes)
+
 
 ## Integrantes
 
@@ -15,7 +15,7 @@
 
 ## Documentación
 
-- **analisis-draft.md:**
+- **[analisis-draft.md](analisis-draft.md):**
 
 	Este documento contiene un  breve acercamiento al tema tratado  en este proyecto con respectiva diferenciación con el fin de dar una introducción a los temas tratados a continuación.
 	
@@ -32,6 +32,6 @@
 - **diseño+implementación.md:**
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI0MjYyMzYsMjA1MzIyNjU4Nyw2OD
-I5MzUzOV19
+eyJoaXN0b3J5IjpbODI4MDk0MDMzLDIwNTMyMjY1ODcsNjgyOT
+M1MzldfQ==
 -->
