@@ -33,7 +33,8 @@
 	
 - **[analisis.md:](analisis.md)**
 
-	Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas profundamente los temas de arquitecturas de datos y como estos interactuan con el software a utilizar
+	Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas profundamente los temas de arquitecturas de datos y como estos interactuan con el software a utilizar.
+	
 	1.  Problema a resolver.
 	2.  Arquitectura preliminar de datos (ciclo de vida, almacenamiento, procesamiento).
 	3.  Fuentes y naturaleza de los datos + tecnologías a utilizar.
@@ -60,8 +61,8 @@ https://www.youtube.com/watch?v=xZ2LL1nPvzI
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjI4MjEyMSw5NzA1NDQ0MjksNjA3OT
-MxODM2LDUwMDIyNjkyOSwyMDAzNTMwMzc5LC0yMTE1MzAyNjIz
-LDMzNzI3ODA1MCwtMTE1MTg2MTA4MCwyMDUzMjI2NTg3LDY4Mj
-kzNTM5XX0=
+eyJoaXN0b3J5IjpbMTI4OTk5MTk4MSwxNDEyMjgyMTIxLDk3MD
+U0NDQyOSw2MDc5MzE4MzYsNTAwMjI2OTI5LDIwMDM1MzAzNzks
+LTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNT
+MyMjY1ODcsNjgyOTM1MzldfQ==
 -->
