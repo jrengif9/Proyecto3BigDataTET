@@ -27,7 +27,7 @@ El objetivo de la prueba de concepto es valorar el concepto de producto antes de
 
 Los datos de streaming son datos que se generan constantemente a partir de miles de fuentes de datos, que normalmente envían los registros de datos simultáneamente en conjuntos de tamaño pequeño (varios kilobytes). Los datos de streaming incluyen diversos tipos de datos, como archivos de registros generados por los clientes que utilizan sus aplicaciones móviles o web, compras electrónicas, actividades de los jugadores en un juego, información de redes sociales, operaciones bursátiles o servicios geoespaciales, así como telemetría de dispositivos conectados o instrumentación en centros de datos. [2]
 
-![logSin titulo](imagenes/DataStreaming.png)
+![logSin titulo](imagenes/DataStreaming.jpg)
 
 ### Tecnologías
 
@@ -86,10 +86,10 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODYxNDExMiw5NDM3OTk4NTQsMTgxOD
-c3MzgyMSw5NTc0NTA4NjgsLTE2NDQ1MTU5NjcsNzk2NTY3MjQz
-LDE0NjM1NjE5NzksLTE0ODY2NTUzMzQsMTMwNjc5MzQ1OSwyMT
-I1MDc4MzU5LDE5MzMyMDcxNSwyODY0NTE1MzUsLTE2ODU1MjA5
-NzcsODUzNjI2MTA0LC02NjEzMzQzODgsLTE4MTY2MjE5MTUsLT
-I0NjA4MTg3LDk5MDc0NjA5OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE1MTgzODkyNzIsOTQzNzk5ODU0LDE4MT
+g3NzM4MjEsOTU3NDUwODY4LC0xNjQ0NTE1OTY3LDc5NjU2NzI0
+MywxNDYzNTYxOTc5LC0xNDg2NjU1MzM0LDEzMDY3OTM0NTksMj
+EyNTA3ODM1OSwxOTMzMjA3MTUsMjg2NDUxNTM1LC0xNjg1NTIw
+OTc3LDg1MzYyNjEwNCwtNjYxMzM0Mzg4LC0xODE2NjIxOTE1LC
+0yNDYwODE4Nyw5OTA3NDYwOTgsLTIwODg3NDY2MTJdfQ==
 -->
