@@ -4,6 +4,8 @@ Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas pro
 
 **Contenidos:**
 
+- [Problemáticas](#)
+
 
 
 ## Problemáticas
@@ -46,8 +48,9 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDMwNjE1MSwzMTQ0ODMzMzEsLTEzMT
-U5NzkxNDMsMTg5MTIxOTc3MiwzNDY1MTE5OTYsMTQzMDk1ODI2
-MCwtMjEzNzgxOTAxOSwtNDg2Mzk4NDYyLC0xMjA1Mzc4MjEsLT
-E4MzA5ODE1NjAsLTIwODg3NDY2MTIsOTgzNjQ2NTA2XX0=
+eyJoaXN0b3J5IjpbLTEyNDAxMDcwMTIsMTk2MDMwNjE1MSwzMT
+Q0ODMzMzEsLTEzMTU5NzkxNDMsMTg5MTIxOTc3MiwzNDY1MTE5
+OTYsMTQzMDk1ODI2MCwtMjEzNzgxOTAxOSwtNDg2Mzk4NDYyLC
+0xMjA1Mzc4MjEsLTE4MzA5ODE1NjAsLTIwODg3NDY2MTIsOTgz
+NjQ2NTA2XX0=
 -->
