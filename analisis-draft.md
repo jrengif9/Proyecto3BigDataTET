@@ -44,8 +44,9 @@ Apache storm es un sistema computacional de código abierto distribuido en tiemp
 
 **Imagenes**
 
-[1] http://muxiulin.cn/wp-content/uploads/2017/11/2f5d8fc1-c11d-4f91-aa0b-cdac4bd097fa.jpg[]
+[1] http://muxiulin.cn/wp-content/uploads/2017/11/2f5d8fc1-c11d-4f91-aa0b-cdac4bd097fa.jpg
+[2] https://2xbbhjxc6wk3v21p62t8n4d4-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/storm_2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzExNTk5NCwtMTgxNjYyMTkxNSwtMj
+eyJoaXN0b3J5IjpbLTY2MTMzNDM4OCwtMTgxNjYyMTkxNSwtMj
 Q2MDgxODcsOTkwNzQ2MDk4LC0yMDg4NzQ2NjEyXX0=
 -->
