@@ -58,9 +58,12 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 *
 
  1 **Configuración inicial**
+ 
  2.**Palabras claves  y configuración de la fuente**
+ 
  3. **Sitio de almacenamiento de información y sincronización **
- 4. **Capacidad de la memoria y canal de configuración**
+ 
+ 5. **Capacidad de la memoria y canal de configuración**
 
 (http://flume.apache.org/download.html)
 
@@ -69,9 +72,10 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODE3MTI1MSwxMTE3Nzg2MjU2LC03MD
-EzODE3MjIsLTE2ODgzNTE2ODksODU0NjMzMjQ5LC0xNjY2MDg5
-NDcsMTQxMjI4MjEyMSw5NzA1NDQ0MjksNjA3OTMxODM2LDUwMD
-IyNjkyOSwyMDAzNTMwMzc5LC0yMTE1MzAyNjIzLDMzNzI3ODA1
-MCwtMTE1MTg2MTA4MCwyMDUzMjI2NTg3LDY4MjkzNTM5XX0=
+eyJoaXN0b3J5IjpbMTczMTUyNDI1NCwxMTE4MTcxMjUxLDExMT
+c3ODYyNTYsLTcwMTM4MTcyMiwtMTY4ODM1MTY4OSw4NTQ2MzMy
+NDksLTE2NjYwODk0NywxNDEyMjgyMTIxLDk3MDU0NDQyOSw2MD
+c5MzE4MzYsNTAwMjI2OTI5LDIwMDM1MzAzNzksLTIxMTUzMDI2
+MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNTMyMjY1ODcsNj
+gyOTM1MzldfQ==
 -->
