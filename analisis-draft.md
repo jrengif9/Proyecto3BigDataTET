@@ -39,6 +39,10 @@ Cuando hablamos de computación distribuida, lo primero que se nos viene a la ca
 
 #### Flume
 
+Apache Flume es un servicio distribuido que mueve de forma fiable y eficiente grandes cantidades de datos, especialmente **logs**. Ideal para aplicaciones de analíticas en línea en **entornos Hadoop**.
+
+Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en streaming**, que permite construir flujos de múltiples por donde viajan los eventos a través de diferentes agentes hasta que alcanzan el destino final.
+
 ## Referencias
 
 **Paginas**
@@ -55,8 +59,9 @@ Cuando hablamos de computación distribuida, lo primero que se nos viene a la ca
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY2NTUzMzQsMTMwNjc5MzQ1OSwyMT
-I1MDc4MzU5LDE5MzMyMDcxNSwyODY0NTE1MzUsLTE2ODU1MjA5
-NzcsODUzNjI2MTA0LC02NjEzMzQzODgsLTE4MTY2MjE5MTUsLT
-I0NjA4MTg3LDk5MDc0NjA5OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTQ2MzU2MTk3OSwtMTQ4NjY1NTMzNCwxMz
+A2NzkzNDU5LDIxMjUwNzgzNTksMTkzMzIwNzE1LDI4NjQ1MTUz
+NSwtMTY4NTUyMDk3Nyw4NTM2MjYxMDQsLTY2MTMzNDM4OCwtMT
+gxNjYyMTkxNSwtMjQ2MDgxODcsOTkwNzQ2MDk4LC0yMDg4NzQ2
+NjEyXX0=
 -->
