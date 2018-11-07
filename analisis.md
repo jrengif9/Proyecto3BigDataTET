@@ -12,8 +12,9 @@ Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utiliz
 
 Actualmente las **redes sociales** se ven abatidas por **reacciones de los usurarios** a ciertos eventos que se presentan en sus comunidades, ciudades países y hasta a nivel mundial. Dichos eventos mediáticos son de gran importancia en redes sociales como **twitter**  donde se almacenan estos datos que esperan ser analizados y estudiados por personas interesadas en ellos.
 
-[Ver Noticia](https://elpais.com/internacional/2018/09/06/actualidad/1536217018_424450.html)
+
 ![Ver Noticia](imagenes/Noticia.PNG)
+[Ver Noticia](https://elpais.com/internacional/2018/09/06/actualidad/1536217018_424450.html)
 
 Uno de esos eventos mediáticos ha sido la aprobación o desaprobación en ciertos paíises sobre políiticas relacionadas con la comunidad LGBT en temas como:
 
@@ -37,8 +38,8 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU5NzkxNDMsMTg5MTIxOTc3MiwzND
-Y1MTE5OTYsMTQzMDk1ODI2MCwtMjEzNzgxOTAxOSwtNDg2Mzk4
-NDYyLC0xMjA1Mzc4MjEsLTE4MzA5ODE1NjAsLTIwODg3NDY2MT
-IsOTgzNjQ2NTA2XX0=
+eyJoaXN0b3J5IjpbLTE5NDAxMDI3MDksLTEzMTU5NzkxNDMsMT
+g5MTIxOTc3MiwzNDY1MTE5OTYsMTQzMDk1ODI2MCwtMjEzNzgx
+OTAxOSwtNDg2Mzk4NDYyLC0xMjA1Mzc4MjEsLTE4MzA5ODE1Nj
+AsLTIwODg3NDY2MTIsOTgzNjQ2NTA2XX0=
 -->
