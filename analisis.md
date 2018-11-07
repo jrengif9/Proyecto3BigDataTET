@@ -32,6 +32,8 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 
 
+
+
 ## Fuentes y naturaleza de los datos + tecnologías a utilizar.
 
 ## Sistema de ingesta de datos + tecnologías a utilizar.
@@ -40,7 +42,7 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1Nzc1MDE1LC0xMzE1OTc5MTQzLDE4OT
+eyJoaXN0b3J5IjpbMzE0NDgzMzMxLC0xMzE1OTc5MTQzLDE4OT
 EyMTk3NzIsMzQ2NTExOTk2LDE0MzA5NTgyNjAsLTIxMzc4MTkw
 MTksLTQ4NjM5ODQ2MiwtMTIwNTM3ODIxLC0xODMwOTgxNTYwLC
 0yMDg4NzQ2NjEyLDk4MzY0NjUwNl19
