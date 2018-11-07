@@ -7,7 +7,7 @@ Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas pro
 - [Problemáticas](#Problemáticas)
 	- [Problemas abstracto](#Problema-abstracto)
 	- [Problema especifico](#Problema-especifico)
-- [Aquitectura preliminar](#Arquitectura-preliminar-de-datos-(ciclo-de-vida,-almacenamiento,-procesamiento))
+- [Aquitectura preliminar](#arquitectura-preliminar-de-datos-ciclo-de-vida-almacenamiento-procesamiento)
 - [](#)
 
 
@@ -54,9 +54,9 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDc1MjA5OCwxOTYwMzA2MTUxLDMxND
-Q4MzMzMSwtMTMxNTk3OTE0MywxODkxMjE5NzcyLDM0NjUxMTk5
-NiwxNDMwOTU4MjYwLC0yMTM3ODE5MDE5LC00ODYzOTg0NjIsLT
-EyMDUzNzgyMSwtMTgzMDk4MTU2MCwtMjA4ODc0NjYxMiw5ODM2
-NDY1MDZdfQ==
+eyJoaXN0b3J5IjpbLTg5ODAwMTAyOSwxNDc0NzUyMDk4LDE5Nj
+AzMDYxNTEsMzE0NDgzMzMxLC0xMzE1OTc5MTQzLDE4OTEyMTk3
+NzIsMzQ2NTExOTk2LDE0MzA5NTgyNjAsLTIxMzc4MTkwMTksLT
+Q4NjM5ODQ2MiwtMTIwNTM3ODIxLC0xODMwOTgxNTYwLC0yMDg4
+NzQ2NjEyLDk4MzY0NjUwNl19
 -->
