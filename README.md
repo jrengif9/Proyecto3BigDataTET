@@ -67,6 +67,8 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 
 4.**Capacidad de la memoria y canal de configuración**
 
+ ![Sin titulo](imagenes/memcapacidad.PNG)
+
 (http://flume.apache.org/download.html)
 
 ### Crear Aplicacion en Twitter
@@ -80,7 +82,7 @@ Después de tener una cuenta en Twitter, se debe solicitar permisos de desarroll
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTc1MDY4MywtOTA0ODAzMjYxLC0xNj
+eyJoaXN0b3J5IjpbMTQ4NTU3MjU3MiwtOTA0ODAzMjYxLC0xNj
 IwNzQxMTgyLDE0MjgwMzM0MzYsLTMyMDc0NzQsMTczMTUyNDI1
 NCwxMTE4MTcxMjUxLDExMTc3ODYyNTYsLTcwMTM4MTcyMiwtMT
 Y4ODM1MTY4OSw4NTQ2MzMyNDksLTE2NjYwODk0NywxNDEyMjgy
