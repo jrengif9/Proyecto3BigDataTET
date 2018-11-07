@@ -1,4 +1,4 @@
-# Análisis
+# Informe de Análisis
 Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas profundamente los temas de arquitecturas de datos y como estos interactuan con el software a utilizar.
 
 ## Problema a resolver.
@@ -18,6 +18,6 @@ Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utiliz
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA5ODE1NjAsLTIwODg3NDY2MTIsOT
-gzNjQ2NTA2XX0=
+eyJoaXN0b3J5IjpbLTEyMDUzNzgyMSwtMTgzMDk4MTU2MCwtMj
+A4ODc0NjYxMiw5ODM2NDY1MDZdfQ==
 -->
