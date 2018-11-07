@@ -35,7 +35,7 @@ Apache storm es un sistema computacional de código abierto distribuido en tiemp
 
 Se trata de un motor de procesamiento de  **_streams_**  o  **flujos de datos**  que proporciona capacidades de distribución de datos, comunicaciones y, muy importante, tolerancia a fallos a las computaciones.
 
-Cuando hablamos de computación distribuida, lo primero que se nos viene a la cabeza es el celebérrimo  Apache Hadoop, del cual tenéis [muchos tutoriales en este mismo portal. Lo que hizo muy popular a este  _framework_  fue el uso del modelo de programación ideado por Google,  [MapReduce](http://research.google.com/archive/mapreduce.html). El modelo seguido por Apache Flink fue pensado desde el principio como alternativa a MapReduce, lo que no significa que no pueda acceder y hacer uso tanto de  HDFS  o como de  [YARN.
+Cuando hablamos de computación distribuida, lo primero que se nos viene a la cabeza es el celebérrimo  Apache Hadoop, del cual tenéis [muchos tutoriales en este mismo portal. Lo que hizo muy popular a este  _framework_  fue el uso del modelo de programación ideado por Google,  [MapReduce](http://research.google.com/archive/mapreduce.html). El modelo seguido por Apache Flink fue pensado desde el principio como alternativa a MapReduce, lo que no significa que no pueda acceder y hacer uso tanto de  HDFS  o como de  [YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)  (MapReduce v2).
 
 #### Flume
 
@@ -54,8 +54,8 @@ Cuando hablamos de computación distribuida, lo primero que se nos viene a la ca
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjc1MzA5NCwxOTMzMjA3MTUsMjg2ND
-UxNTM1LC0xNjg1NTIwOTc3LDg1MzYyNjEwNCwtNjYxMzM0Mzg4
-LC0xODE2NjIxOTE1LC0yNDYwODE4Nyw5OTA3NDYwOTgsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMjEyNTA3ODM1OSwxMDIyNzUzMDk0LDE5Mz
+MyMDcxNSwyODY0NTE1MzUsLTE2ODU1MjA5NzcsODUzNjI2MTA0
+LC02NjEzMzQzODgsLTE4MTY2MjE5MTUsLTI0NjA4MTg3LDk5MD
+c0NjA5OCwtMjA4ODc0NjYxMl19
 -->
