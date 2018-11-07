@@ -5,8 +5,8 @@
 
 **Contenidos**
 1. [Glosario](#Glosario)
-	a.	[Prueba de Concepto](#Prueba-de-Concepto)
-	b. [Data Streaming](#Data-Streaming)
+    a. [Prueba de Concepto](#Prueba-de-Concepto)
+b. [Data Streaming](#Data-Streaming)
 	c. [Tecnologías](#Tecnologías)
 		-	[kafka](#Kafka)
 		-	[Storm](#Storm)
@@ -83,10 +83,10 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzExMTMyODQsOTU3NDUwODY4LC0xNj
-Q0NTE1OTY3LDc5NjU2NzI0MywxNDYzNTYxOTc5LC0xNDg2NjU1
-MzM0LDEzMDY3OTM0NTksMjEyNTA3ODM1OSwxOTMzMjA3MTUsMj
-g2NDUxNTM1LC0xNjg1NTIwOTc3LDg1MzYyNjEwNCwtNjYxMzM0
-Mzg4LC0xODE2NjIxOTE1LC0yNDYwODE4Nyw5OTA3NDYwOTgsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIxNTI2OTU0LDk1NzQ1MDg2OCwtMTY0ND
+UxNTk2Nyw3OTY1NjcyNDMsMTQ2MzU2MTk3OSwtMTQ4NjY1NTMz
+NCwxMzA2NzkzNDU5LDIxMjUwNzgzNTksMTkzMzIwNzE1LDI4Nj
+Q1MTUzNSwtMTY4NTUyMDk3Nyw4NTM2MjYxMDQsLTY2MTMzNDM4
+OCwtMTgxNjYyMTkxNSwtMjQ2MDgxODcsOTkwNzQ2MDk4LC0yMD
+g4NzQ2NjEyXX0=
 -->
