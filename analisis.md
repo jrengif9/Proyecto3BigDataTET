@@ -20,7 +20,7 @@ Uno de esos eventos mediáticos ha sido la aprobación o desaprobación en ciert
 
 Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la sociedad y hasta llegar a generar políticas publicas que combatan cierta clase de acoso hacia esta comunidad.
 
-**Objetivo:** Analizar publicaciones realizadas en la red social tomar mejorwitter sobre comentarios que contengan palabras claves relacionadas con politicas hacia la comunidad L
+**Objetivo:** Analizar publicaciones realizadas en la red social tomar mejorwitter sobre comentarios que contengan palabras claves relacionadas con politicas hacia la comunidad LGBTI y determinar que porcentaje de dichos comentarios tienen una posición positiva, neutra o negativa.
 
 
 ## Arquitectura preliminar de datos (ciclo de vida, almacenamiento, procesamiento).
@@ -34,7 +34,7 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzU0NTg5NCwzNDY1MTE5OTYsMTQzMD
+eyJoaXN0b3J5IjpbMTg5MTIxOTc3MiwzNDY1MTE5OTYsMTQzMD
 k1ODI2MCwtMjEzNzgxOTAxOSwtNDg2Mzk4NDYyLC0xMjA1Mzc4
 MjEsLTE4MzA5ODE1NjAsLTIwODg3NDY2MTIsOTgzNjQ2NTA2XX
 0=
