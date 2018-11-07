@@ -9,7 +9,7 @@ Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utiliz
 
 ### Problema especifico
 
-Actualmente las redes sociales se ven abatidas por reacciones de los usurarios a ciertos eventos que se presentan en sus comunidades, ciudades países y hasta a nivel mundial.
+Actualmente las redes sociales se ven abatidas por reacciones de los usurarios a ciertos eventos que se presentan en sus comunidades, ciudades países y hasta a nivel mundial. Dichos eventos mediaticos son de gran
 
 ## Arquitectura preliminar de datos (ciclo de vida, almacenamiento, procesamiento).
 
@@ -22,7 +22,7 @@ Actualmente las redes sociales se ven abatidas por reacciones de los usurarios a
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM3MjU4NzksLTQ4NjM5ODQ2MiwtMT
-IwNTM3ODIxLC0xODMwOTgxNTYwLC0yMDg4NzQ2NjEyLDk4MzY0
-NjUwNl19
+eyJoaXN0b3J5IjpbMjAzMDA4ODUwMCwtNDg2Mzk4NDYyLC0xMj
+A1Mzc4MjEsLTE4MzA5ODE1NjAsLTIwODg3NDY2MTIsOTgzNjQ2
+NTA2XX0=
 -->
