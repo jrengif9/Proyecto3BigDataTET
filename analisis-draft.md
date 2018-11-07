@@ -4,17 +4,16 @@
 	Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utilizando una de las siguientes tecnologías: Kafka, Storm, Flink o Flume.
 
 **Contenidos**
-- [Glosario](#Glosario)
-	- [Prueba de Concepto](#Prueba-de-Concepto)
-	- [Data Streaming](#Data-Streaming)
+[Glosario](#Glosario)
+[Prueba de Concepto](#Prueba-de-Concepto)[Data Streaming](#Data-Streaming)
 	- [Tecnologías](#Tecnologías)
-		- [kafka](#)
-		- Storm
-		- Flink
-		- Flume
-- Referencias
-	- Paginas
-	- Imagenes
+		- [kafka](#Kafka)
+		- [Storm](#Storm)
+		- [Flink](#Flink)
+		- [Flume](#Flume)
+- [Referencias](#Referencias)
+	- [Paginas](Paginas)
+	- [Imágenes](Imágenes)
 
 
 ## Glosario:
@@ -75,7 +74,7 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 - [5] https://flume.apache.org/
 - [6] http://www.diegocalvo.es/flume/
 
-### Imagenes
+### Imágenes
 
 - [1] http://muxiulin.cn/wp-content/uploads/2017/11/2f5d8fc1-c11d-4f91-aa0b-cdac4bd097fa.jpg
 - [2] https://2xbbhjxc6wk3v21p62t8n4d4-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/storm_2.png
@@ -83,7 +82,7 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjY4NjM5OCwtMTY0NDUxNTk2Nyw3OT
+eyJoaXN0b3J5IjpbMTk1OTU5MzAxNiwtMTY0NDUxNTk2Nyw3OT
 Y1NjcyNDMsMTQ2MzU2MTk3OSwtMTQ4NjY1NTMzNCwxMzA2Nzkz
 NDU5LDIxMjUwNzgzNTksMTkzMzIwNzE1LDI4NjQ1MTUzNSwtMT
 Y4NTUyMDk3Nyw4NTM2MjYxMDQsLTY2MTMzNDM4OCwtMTgxNjYy
