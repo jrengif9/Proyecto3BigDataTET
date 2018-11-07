@@ -50,6 +50,7 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 - [2] https://aws.amazon.com/es/streaming-data/
 - [3] https://devs4j.com/2017/10/04/primeros-pasos-con-apache-kafka-en-espanol/
 - [4] https://intellipaat.com/blog/what-is-apache-storm/
+- [5] http://www.diegocalvo.es/flume/
 
 **Imagenes**
 
@@ -59,9 +60,9 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzU2MTk3OSwtMTQ4NjY1NTMzNCwxMz
-A2NzkzNDU5LDIxMjUwNzgzNTksMTkzMzIwNzE1LDI4NjQ1MTUz
-NSwtMTY4NTUyMDk3Nyw4NTM2MjYxMDQsLTY2MTMzNDM4OCwtMT
-gxNjYyMTkxNSwtMjQ2MDgxODcsOTkwNzQ2MDk4LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbMTc4MDE5NTkyNCwxNDYzNTYxOTc5LC0xND
+g2NjU1MzM0LDEzMDY3OTM0NTksMjEyNTA3ODM1OSwxOTMzMjA3
+MTUsMjg2NDUxNTM1LC0xNjg1NTIwOTc3LDg1MzYyNjEwNCwtNj
+YxMzM0Mzg4LC0xODE2NjIxOTE1LC0yNDYwODE4Nyw5OTA3NDYw
+OTgsLTIwODg3NDY2MTJdfQ==
 -->
