@@ -62,6 +62,8 @@ Flume es un servicio distribuido, confiable y disponible para recopilar, agregar
 
 ### HDFS
 
+El Sistema de archivos distribuidos de Hadoop (HDFS) es un sistema de archivos distribuidos diseñado para ejecutarse en hardware básico. Tiene muchas similitudes con los sistemas de archivos distribuidos existentes. Sin embargo, las diferencias con otros sistemas de archivos distribuidos son significativas. HDFS es altamente tolerante a fallos y está diseñado para implementarse en hardware de bajo costo. HDFS proporciona acceso de alto rendimiento a los datos de la aplicación y es adecuado para aplicaciones que tienen grandes conjuntos de datos. HDFS relaja algunos requisitos POSIX para permitir el acceso de transmisión a los datos del sistema de archivos. HDFS se creó originalmente como infraestructura para el proyecto del motor de búsqueda web Apache Nutch. HDFS es ahora un subproyecto Apache Hadoop.
+
 ### Apache Hive
 
 ## Análisis de datos + tecnologías a utilizar.
@@ -70,10 +72,10 @@ Flume es un servicio distribuido, confiable y disponible para recopilar, agregar
 
 - [1] https://flume.apache.org/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU2MTMwLC0zMTkzMDY4MTcsMTA4MT
-IzNjA3NiwtMTI2ODIyODE4NCwxNDc0NzUyMDk4LDE5NjAzMDYx
-NTEsMzE0NDgzMzMxLC0xMzE1OTc5MTQzLDE4OTEyMTk3NzIsMz
-Q2NTExOTk2LDE0MzA5NTgyNjAsLTIxMzc4MTkwMTksLTQ4NjM5
-ODQ2MiwtMTIwNTM3ODIxLC0xODMwOTgxNTYwLC0yMDg4NzQ2Nj
-EyLDk4MzY0NjUwNl19
+eyJoaXN0b3J5IjpbLTI1MDAzMDEzOSwtMTQxNTYxMzAsLTMxOT
+MwNjgxNywxMDgxMjM2MDc2LC0xMjY4MjI4MTg0LDE0NzQ3NTIw
+OTgsMTk2MDMwNjE1MSwzMTQ0ODMzMzEsLTEzMTU5NzkxNDMsMT
+g5MTIxOTc3MiwzNDY1MTE5OTYsMTQzMDk1ODI2MCwtMjEzNzgx
+OTAxOSwtNDg2Mzk4NDYyLC0xMjA1Mzc4MjEsLTE4MzA5ODE1Nj
+AsLTIwODg3NDY2MTIsOTgzNjQ2NTA2XX0=
 -->
