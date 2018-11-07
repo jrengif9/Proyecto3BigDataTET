@@ -47,20 +47,24 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 
 
-
-
-
 ## Fuentes y naturaleza de los datos + tecnologías a utilizar.
 
 ## Sistema de ingesta de datos + tecnologías a utilizar.
 
+### Apache Flume
+
 ## Almacenamiento de los datos + tecnologías a utilizar.
+
+### HDFS
+
+### Apache Hive
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTIzNjA3NiwtMTI2ODIyODE4NCwxND
-c0NzUyMDk4LDE5NjAzMDYxNTEsMzE0NDgzMzMxLC0xMzE1OTc5
-MTQzLDE4OTEyMTk3NzIsMzQ2NTExOTk2LDE0MzA5NTgyNjAsLT
-IxMzc4MTkwMTksLTQ4NjM5ODQ2MiwtMTIwNTM3ODIxLC0xODMw
-OTgxNTYwLC0yMDg4NzQ2NjEyLDk4MzY0NjUwNl19
+eyJoaXN0b3J5IjpbLTUyNzY1MTc0MywxMDgxMjM2MDc2LC0xMj
+Y4MjI4MTg0LDE0NzQ3NTIwOTgsMTk2MDMwNjE1MSwzMTQ0ODMz
+MzEsLTEzMTU5NzkxNDMsMTg5MTIxOTc3MiwzNDY1MTE5OTYsMT
+QzMDk1ODI2MCwtMjEzNzgxOTAxOSwtNDg2Mzk4NDYyLC0xMjA1
+Mzc4MjEsLTE4MzA5ODE1NjAsLTIwODg3NDY2MTIsOTgzNjQ2NT
+A2XX0=
 -->
