@@ -3,6 +3,8 @@
 **Problema abstracto**
 	Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utilizando una de las siguientes tecnologías: Kafka, Storm, Flink o Flume.
 
+
+
 ## Glosario:
 
 ### Prueba de Concepto
@@ -69,9 +71,10 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ1MTU5NjcsNzk2NTY3MjQzLDE0Nj
-M1NjE5NzksLTE0ODY2NTUzMzQsMTMwNjc5MzQ1OSwyMTI1MDc4
-MzU5LDE5MzMyMDcxNSwyODY0NTE1MzUsLTE2ODU1MjA5NzcsOD
-UzNjI2MTA0LC02NjEzMzQzODgsLTE4MTY2MjE5MTUsLTI0NjA4
-MTg3LDk5MDc0NjA5OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTY2NjQyNzkzOSwtMTY0NDUxNTk2Nyw3OT
+Y1NjcyNDMsMTQ2MzU2MTk3OSwtMTQ4NjY1NTMzNCwxMzA2Nzkz
+NDU5LDIxMjUwNzgzNTksMTkzMzIwNzE1LDI4NjQ1MTUzNSwtMT
+Y4NTUyMDk3Nyw4NTM2MjYxMDQsLTY2MTMzNDM4OCwtMTgxNjYy
+MTkxNSwtMjQ2MDgxODcsOTkwNzQ2MDk4LC0yMDg4NzQ2NjEyXX
+0=
 -->
