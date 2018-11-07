@@ -56,6 +56,15 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 
 **Video tutorial:**[¿Como configurar Apache Flume?](https://www.youtube.com/watch?v=xZ2LL1nPvzI)
 
+
+ 1 **Configuración inicial**
+ 
+ 2.**Palabras claves  y configuración de la fuente**
+ 
+ 3. **Sitio de almacenamiento de información y sincronización **
+ 
+ 5. **Capacidad de la memoria y canal de configuración**
+
 (http://flume.apache.org/download.html)
 
 ### Spark-NLP
@@ -63,9 +72,10 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgzNTE2ODksODU0NjMzMjQ5LC0xNj
-Y2MDg5NDcsMTQxMjI4MjEyMSw5NzA1NDQ0MjksNjA3OTMxODM2
-LDUwMDIyNjkyOSwyMDAzNTMwMzc5LC0yMTE1MzAyNjIzLDMzNz
-I3ODA1MCwtMTE1MTg2MTA4MCwyMDUzMjI2NTg3LDY4MjkzNTM5
-XX0=
+eyJoaXN0b3J5IjpbLTMyMDc0NzQsMTczMTUyNDI1NCwxMTE4MT
+cxMjUxLDExMTc3ODYyNTYsLTcwMTM4MTcyMiwtMTY4ODM1MTY4
+OSw4NTQ2MzMyNDksLTE2NjYwODk0NywxNDEyMjgyMTIxLDk3MD
+U0NDQyOSw2MDc5MzE4MzYsNTAwMjI2OTI5LDIwMDM1MzAzNzks
+LTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNT
+MyMjY1ODcsNjgyOTM1MzldfQ==
 -->
