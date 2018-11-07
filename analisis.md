@@ -53,7 +53,7 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ### Apache Flume
 
-
+Flume es un servicio distribuido, confiable y disponible para recopilar, agregar y mover de manera eficiente grandes cantidades de datos de registro. Tiene una arquitectura simple y flexible basada en flujos de datos de transmisión. Es robusto y tolerante a fallas con mecanismos de confiabilidad sintonizables y muchos mecanismos de recuperación y recuperación de fallas. Utiliza un modelo de datos extensible simple que permite la aplicación analítica en línea.
 
 ## Almacenamiento de los datos + tecnologías a utilizar.
 
@@ -62,11 +62,15 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 ### Apache Hive
 
 ## Análisis de datos + tecnologías a utilizar.
+
+## Referencias
+
+- [1] https://flume.apache.org/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NzYzMzk3LDEwODEyMzYwNzYsLTEyNj
-gyMjgxODQsMTQ3NDc1MjA5OCwxOTYwMzA2MTUxLDMxNDQ4MzMz
-MSwtMTMxNTk3OTE0MywxODkxMjE5NzcyLDM0NjUxMTk5NiwxND
-MwOTU4MjYwLC0yMTM3ODE5MDE5LC00ODYzOTg0NjIsLTEyMDUz
-NzgyMSwtMTgzMDk4MTU2MCwtMjA4ODc0NjYxMiw5ODM2NDY1MD
-ZdfQ==
+eyJoaXN0b3J5IjpbLTMxOTMwNjgxNywxMDgxMjM2MDc2LC0xMj
+Y4MjI4MTg0LDE0NzQ3NTIwOTgsMTk2MDMwNjE1MSwzMTQ0ODMz
+MzEsLTEzMTU5NzkxNDMsMTg5MTIxOTc3MiwzNDY1MTE5OTYsMT
+QzMDk1ODI2MCwtMjEzNzgxOTAxOSwtNDg2Mzk4NDYyLC0xMjA1
+Mzc4MjEsLTE4MzA5ODE1NjAsLTIwODg3NDY2MTIsOTgzNjQ2NT
+A2XX0=
 -->
