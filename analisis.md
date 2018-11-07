@@ -2,6 +2,10 @@
 
 Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas profundamente los temas de arquitecturas de datos y como estos interactuan con el software a utilizar.
 
+**Contenidos:**
+
+
+
 ## Problemáticas
 
 ### Problema abstracto
@@ -42,8 +46,8 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0NDgzMzMxLC0xMzE1OTc5MTQzLDE4OT
-EyMTk3NzIsMzQ2NTExOTk2LDE0MzA5NTgyNjAsLTIxMzc4MTkw
-MTksLTQ4NjM5ODQ2MiwtMTIwNTM3ODIxLC0xODMwOTgxNTYwLC
-0yMDg4NzQ2NjEyLDk4MzY0NjUwNl19
+eyJoaXN0b3J5IjpbMTk2MDMwNjE1MSwzMTQ0ODMzMzEsLTEzMT
+U5NzkxNDMsMTg5MTIxOTc3MiwzNDY1MTE5OTYsMTQzMDk1ODI2
+MCwtMjEzNzgxOTAxOSwtNDg2Mzk4NDYyLC0xMjA1Mzc4MjEsLT
+E4MzA5ODE1NjAsLTIwODg3NDY2MTIsOTgzNjQ2NTA2XX0=
 -->
