@@ -12,7 +12,12 @@ Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utiliz
 
 Actualmente las **redes sociales** se ven abatidas por **reacciones de los usurarios** a ciertos eventos que se presentan en sus comunidades, ciudades países y hasta a nivel mundial. Dichos eventos mediáticos son de gran importancia en redes sociales como **twitter**  donde se almacenan estos datos que esperan ser analizados y estudiados por personas interesadas en ellos.
 
-Uno de esos eventos mediáticos ha sido la aprobación o desaprobacion en ciertos paises sobre temas relacionados con la comunidad LGBT 
+Uno de esos eventos mediáticos ha sido la aprobación o desaprobación en ciertos paises sobre politicas relacionadas con la comunidad LGBT en temas como:
+
+- Igualdad de derechos
+-  Adopción de parejas del mismo sexo
+- Matrimonio igualitario
+-
 
 
 
@@ -27,7 +32,7 @@ Uno de esos eventos mediáticos ha sido la aprobación o desaprobacion en cierto
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTM5Njg5OSwxNDMwOTU4MjYwLC0yMT
+eyJoaXN0b3J5IjpbLTY0NTI5MDgwOSwxNDMwOTU4MjYwLC0yMT
 M3ODE5MDE5LC00ODYzOTg0NjIsLTEyMDUzNzgyMSwtMTgzMDk4
 MTU2MCwtMjA4ODc0NjYxMiw5ODM2NDY1MDZdfQ==
 -->
