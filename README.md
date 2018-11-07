@@ -64,10 +64,12 @@ http://flume.apache.org/download.html
  ![Sin titulo](imagenes/configinicial.PNG)
  
 2.**Palabras claves  y configuración de la fuente** 
+
+![Sin titulo](imagenes/saveinfo.PNG)
  
 3.**Sitio de almacenamiento de información y sincronización**
 
- ![Sin titulo](imagenes/memcapacidad.PNG)
+ ![Sin titulo](imagenes/saveinfo.PNG)
 
 4.**Capacidad de la memoria y canal de configuración**
 
@@ -86,7 +88,7 @@ Después de tener una cuenta en Twitter, se debe solicitar permisos de desarroll
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDc4MTI5MiwtOTA0ODAzMjYxLC0xNj
+eyJoaXN0b3J5IjpbLTQ5MDkwMzc3NywtOTA0ODAzMjYxLC0xNj
 IwNzQxMTgyLDE0MjgwMzM0MzYsLTMyMDc0NzQsMTczMTUyNDI1
 NCwxMTE4MTcxMjUxLDExMTc3ODYyNTYsLTcwMTM4MTcyMiwtMT
 Y4ODM1MTY4OSw4NTQ2MzMyNDksLTE2NjYwODk0NywxNDEyMjgy
