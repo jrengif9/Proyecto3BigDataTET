@@ -8,7 +8,11 @@ Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas pro
 	- [Problemas abstracto](#Problema-abstracto)
 	- [Problema especifico](#Problema-especifico)
 - [Aquitectura preliminar](#arquitectura-preliminar-de-datos-ciclo-de-vida-almacenamiento-procesamiento)
-- [](#)
+- [](#fuentes-y-naturaleza-de-los-datos--tecnologías-a-utilizar)
+- [](#sistema-de-ingesta-de-datos--tecnologías-a-utilizar)
+- [](#almacenamiento-de-los-datos--tecnologías-a-utilizar)
+- [](#análisis-de-datos--tecnologías-a-utilizar)
+
 
 
 
@@ -54,9 +58,9 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODAwMTAyOSwxNDc0NzUyMDk4LDE5Nj
-AzMDYxNTEsMzE0NDgzMzMxLC0xMzE1OTc5MTQzLDE4OTEyMTk3
-NzIsMzQ2NTExOTk2LDE0MzA5NTgyNjAsLTIxMzc4MTkwMTksLT
-Q4NjM5ODQ2MiwtMTIwNTM3ODIxLC0xODMwOTgxNTYwLC0yMDg4
-NzQ2NjEyLDk4MzY0NjUwNl19
+eyJoaXN0b3J5IjpbLTEyNjgyMjgxODQsMTQ3NDc1MjA5OCwxOT
+YwMzA2MTUxLDMxNDQ4MzMzMSwtMTMxNTk3OTE0MywxODkxMjE5
+NzcyLDM0NjUxMTk5NiwxNDMwOTU4MjYwLC0yMTM3ODE5MDE5LC
+00ODYzOTg0NjIsLTEyMDUzNzgyMSwtMTgzMDk4MTU2MCwtMjA4
+ODc0NjYxMiw5ODM2NDY1MDZdfQ==
 -->
