@@ -68,19 +68,19 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 (http://flume.apache.org/download.html)
 
 ###**Crear Aplicacion en Twitter**
-	Despues de tener una cuenta en Twitter, se debe solicitar permisos de desarrollador , 
-	**
+	Despus de tener una cuenta en Twitter, se debe solicitar permisos de desarrollador**, explicando el poque se quiere tener estos permisos y que se queire hacer con la aplicacion, ya luego de ser confirmado se debe llenar una información 
+	
 
 ### Spark-NLP
 	
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODAzMzQzNiwyNDYzMDkyMTIsLTMyMD
-c0NzQsMTczMTUyNDI1NCwxMTE4MTcxMjUxLDExMTc3ODYyNTYs
-LTcwMTM4MTcyMiwtMTY4ODM1MTY4OSw4NTQ2MzMyNDksLTE2Nj
-YwODk0NywxNDEyMjgyMTIxLDk3MDU0NDQyOSw2MDc5MzE4MzYs
-NTAwMjI2OTI5LDIwMDM1MzAzNzksLTIxMTUzMDI2MjMsMzM3Mj
-c4MDUwLC0xMTUxODYxMDgwLDIwNTMyMjY1ODcsNjgyOTM1Mzld
-fQ==
+eyJoaXN0b3J5IjpbLTQ4MTEwMjc5NCwxNDI4MDMzNDM2LC0zMj
+A3NDc0LDE3MzE1MjQyNTQsMTExODE3MTI1MSwxMTE3Nzg2MjU2
+LC03MDEzODE3MjIsLTE2ODgzNTE2ODksODU0NjMzMjQ5LC0xNj
+Y2MDg5NDcsMTQxMjI4MjEyMSw5NzA1NDQ0MjksNjA3OTMxODM2
+LDUwMDIyNjkyOSwyMDAzNTMwMzc5LC0yMTE1MzAyNjIzLDMzNz
+I3ODA1MCwtMTE1MTg2MTA4MCwyMDUzMjI2NTg3LDY4MjkzNTM5
+XX0=
 -->
