@@ -53,6 +53,8 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ## Fuentes y naturaleza de los datos + tecnologías a utilizar.
 
+![](https://www.researchgate.net/profile/Riccardo_Scandariato/publication/220428156/figure/fig2/AS:267570519474200@1440805191387/The-data-flow-diagram-DFD-of-the-Social-Network-20-application_W840.jpg)
+
 ## Sistema de ingesta de datos + tecnologías a utilizar.
 
 ### Apache Flume
@@ -76,11 +78,11 @@ Apache Hive es un proyecto de código abierto ejecutado por voluntarios en Apach
 - [1] https://flume.apache.org/
 - [2] https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjM2MjkxMywtMTUwNjAyNjQ0MCwyMT
-QxMjExMDkyLDE0MjA1ODUwOTEsLTE0MTU2MTMwLC0zMTkzMDY4
-MTcsMTA4MTIzNjA3NiwtMTI2ODIyODE4NCwxNDc0NzUyMDk4LD
-E5NjAzMDYxNTEsMzE0NDgzMzMxLC0xMzE1OTc5MTQzLDE4OTEy
-MTk3NzIsMzQ2NTExOTk2LDE0MzA5NTgyNjAsLTIxMzc4MTkwMT
-ksLTQ4NjM5ODQ2MiwtMTIwNTM3ODIxLC0xODMwOTgxNTYwLC0y
-MDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbOTQ3OTQzNjU4LC0xNTA2MDI2NDQwLDIxND
+EyMTEwOTIsMTQyMDU4NTA5MSwtMTQxNTYxMzAsLTMxOTMwNjgx
+NywxMDgxMjM2MDc2LC0xMjY4MjI4MTg0LDE0NzQ3NTIwOTgsMT
+k2MDMwNjE1MSwzMTQ0ODMzMzEsLTEzMTU5NzkxNDMsMTg5MTIx
+OTc3MiwzNDY1MTE5OTYsMTQzMDk1ODI2MCwtMjEzNzgxOTAxOS
+wtNDg2Mzk4NDYyLC0xMjA1Mzc4MjEsLTE4MzA5ODE1NjAsLTIw
+ODg3NDY2MTJdfQ==
 -->
