@@ -47,7 +47,6 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
  **Ciclo de Vida:**  El ciclo de vida de los datos comienza en los Tweets que producen los usurios de Twitter, aquellos tweets deben estar relacionados con unas palabras a las que llamaremos  **keywords**, que para nuestro caso son "Coca-cola" y "Pepsi". Twitter entonces proveera una interfaz por medio de una API ([Apps Twitter](https://apps.twitter.com/)), dicha API sera accedida por un agente que tomara los datos bajo tecnicas de DataStreaming y lo almacenara en alguna tecnologia de Storage (Para el caso HDFS).
  
- ![Sin titulo](https://photos.app.goo.gl/NenV4fGHvWp1TM6T8)
 
  **Almacenamiento:**  Dado que es un proceso constante e inserción de datos, es fundamental tener un sistema de almacenamiento escalable que garantice el acceso a los datos, y que ojalá sea de una manera sencilla. Inicialmente los datos son extraidos con un formato  [JSON](https://es.wikipedia.org/wiki/JSON)  del cual pueden extraerse atributos fundamentales para el análisis.
 
@@ -76,11 +75,11 @@ Apache Hive es un proyecto de código abierto ejecutado por voluntarios en Apach
 - [1] https://flume.apache.org/
 - [2] https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTIxMTA5MiwxNDIwNTg1MDkxLC0xNT
-A2MDI2NDQwLC0xNDE1NjEzMCwtMzE5MzA2ODE3LDEwODEyMzYw
-NzYsLTEyNjgyMjgxODQsMTQ3NDc1MjA5OCwxOTYwMzA2MTUxLD
-MxNDQ4MzMzMSwtMTMxNTk3OTE0MywxODkxMjE5NzcyLDM0NjUx
-MTk5NiwxNDMwOTU4MjYwLC0yMTM3ODE5MDE5LC00ODYzOTg0Nj
-IsLTEyMDUzNzgyMSwtMTgzMDk4MTU2MCwtMjA4ODc0NjYxMiw5
-ODM2NDY1MDZdfQ==
+eyJoaXN0b3J5IjpbLTE1MDYwMjY0NDAsMjE0MTIxMTA5MiwxND
+IwNTg1MDkxLC0xNTA2MDI2NDQwLC0xNDE1NjEzMCwtMzE5MzA2
+ODE3LDEwODEyMzYwNzYsLTEyNjgyMjgxODQsMTQ3NDc1MjA5OC
+wxOTYwMzA2MTUxLDMxNDQ4MzMzMSwtMTMxNTk3OTE0MywxODkx
+MjE5NzcyLDM0NjUxMTk5NiwxNDMwOTU4MjYwLC0yMTM3ODE5MD
+E5LC00ODYzOTg0NjIsLTEyMDUzNzgyMSwtMTgzMDk4MTU2MCwt
+MjA4ODc0NjYxMl19
 -->
