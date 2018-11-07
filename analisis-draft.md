@@ -27,6 +27,8 @@ Apache Kafka es una plataforma distribuida de Streaming utilizada para construir
 
 #### Storm
 
+![logo](imagenes/storm.png)
+
 Apache storm es un sistema computacional de código abierto distribuido en tiempo real para procesar flujos de datos. Al igual que lo que Hadoop solía hacer para el procesamiento por lotes, Apache Storm hace para flujos de datos ilimitados de una manera confiable[4].
 
 - Capaz de procesar más de un millón de trabajos en una fracción de segundo en un nodo.
@@ -35,11 +37,15 @@ Apache storm es un sistema computacional de código abierto distribuido en tiemp
 
 #### Flink
 
+![logo](imagenes/flink.png)
+
 Se trata de un motor de procesamiento de  **_streams_**  o  **flujos de datos**  que proporciona capacidades de distribución de datos, comunicaciones y, muy importante, tolerancia a fallos a las computaciones[5].
 
 Cuando hablamos de computación distribuida, lo primero que se nos viene a la cabeza es el celebérrimo  Apache Hadoop,  El modelo seguido por Apache Flink fue pensado desde el principio como alternativa a MapReduce, lo que no significa que no pueda acceder y hacer uso tanto de  HDFS  o como de  YARN.
 
 #### Flume
+
+![logo](imagenes/flume.png)
 
 Apache Flume es un servicio distribuido que mueve de forma fiable y eficiente grandes cantidades de datos, especialmente **logs**. Ideal para aplicaciones de analíticas en línea en **entornos Hadoop**.[6]
 
@@ -63,9 +69,9 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU5MjEyNTMsMTQ2MzU2MTk3OSwtMT
-Q4NjY1NTMzNCwxMzA2NzkzNDU5LDIxMjUwNzgzNTksMTkzMzIw
-NzE1LDI4NjQ1MTUzNSwtMTY4NTUyMDk3Nyw4NTM2MjYxMDQsLT
-Y2MTMzNDM4OCwtMTgxNjYyMTkxNSwtMjQ2MDgxODcsOTkwNzQ2
-MDk4LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNzk2NTY3MjQzLDE0NjM1NjE5NzksLTE0OD
+Y2NTUzMzQsMTMwNjc5MzQ1OSwyMTI1MDc4MzU5LDE5MzMyMDcx
+NSwyODY0NTE1MzUsLTE2ODU1MjA5NzcsODUzNjI2MTA0LC02Nj
+EzMzQzODgsLTE4MTY2MjE5MTUsLTI0NjA4MTg3LDk5MDc0NjA5
+OCwtMjA4ODc0NjYxMl19
 -->
