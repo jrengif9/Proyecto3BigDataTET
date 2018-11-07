@@ -54,10 +54,9 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 
 #### Instalación y configuración
 
+Para instalar Apache Flume [ingrese aqui](http://flume.apache.org/download.html) a su pagina oficial.
+
 **Video tutorial:**[¿Como configurar Apache Flume?](https://www.youtube.com/watch?v=xZ2LL1nPvzI)
-
-http://flume.apache.org/download.html
-
 
  1 **Configuración inicial**
  
@@ -92,11 +91,11 @@ Después de tener una cuenta en Twitter, se debe solicitar permisos de desarroll
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTA2MTAyMywtOTA0ODAzMjYxLC0xNj
-IwNzQxMTgyLDE0MjgwMzM0MzYsLTMyMDc0NzQsMTczMTUyNDI1
-NCwxMTE4MTcxMjUxLDExMTc3ODYyNTYsLTcwMTM4MTcyMiwtMT
-Y4ODM1MTY4OSw4NTQ2MzMyNDksLTE2NjYwODk0NywxNDEyMjgy
-MTIxLDk3MDU0NDQyOSw2MDc5MzE4MzYsNTAwMjI2OTI5LDIwMD
-M1MzAzNzksLTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYx
-MDgwXX0=
+eyJoaXN0b3J5IjpbLTgzODY1Mjk2LC05MDQ4MDMyNjEsLTE2Mj
+A3NDExODIsMTQyODAzMzQzNiwtMzIwNzQ3NCwxNzMxNTI0MjU0
+LDExMTgxNzEyNTEsMTExNzc4NjI1NiwtNzAxMzgxNzIyLC0xNj
+g4MzUxNjg5LDg1NDYzMzI0OSwtMTY2NjA4OTQ3LDE0MTIyODIx
+MjEsOTcwNTQ0NDI5LDYwNzkzMTgzNiw1MDAyMjY5MjksMjAwMz
+UzMDM3OSwtMjExNTMwMjYyMywzMzcyNzgwNTAsLTExNTE4NjEw
+ODBdfQ==
 -->
