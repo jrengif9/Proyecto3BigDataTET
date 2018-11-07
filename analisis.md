@@ -1,11 +1,15 @@
 # Informe de Análisis
 Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas profundamente los temas de arquitecturas de datos y como estos interactuan con el software a utilizar.
 
-## Problema a resolver.
+## Problematicas
 
-**Problema abstracto**
+### Problema abstracto
 
 Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utilizando una de las siguientes tecnologías: Kafka, Storm, Flink o Flume.
+
+### Problema especifico
+
+
 
 ## Arquitectura preliminar de datos (ciclo de vida, almacenamiento, procesamiento).
 
@@ -18,6 +22,6 @@ Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utiliz
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUzNzgyMSwtMTgzMDk4MTU2MCwtMj
-A4ODc0NjYxMiw5ODM2NDY1MDZdfQ==
+eyJoaXN0b3J5IjpbLTQ4NjM5ODQ2MiwtMTIwNTM3ODIxLC0xOD
+MwOTgxNTYwLC0yMDg4NzQ2NjEyLDk4MzY0NjUwNl19
 -->
