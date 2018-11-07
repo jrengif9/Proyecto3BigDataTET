@@ -17,7 +17,7 @@
 	Este documento contiene un  breve acercamiento al tema tratado  en este proyecto con respectiva diferenciación con el fin de dar una introducción a los temas tratados a continuación.
 	
 - **analisis.md**
-
+	Análisis mas detallado acerca del proyecto a trabajar, ademas abordan
 	1.  Problema a resolver.
 	2.  Arquitectura preliminar de datos (ciclo de vida, almacenamiento, procesamiento).
 	3.  Fuentes y naturaleza de los datos + tecnologías a utilizar.
@@ -27,5 +27,5 @@
 	
 - **diseño+implementación.md**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYyOTY1ODQsNjgyOTM1MzldfQ==
+eyJoaXN0b3J5IjpbMjQ5OTI5NDcwLDY4MjkzNTM5XX0=
 -->
