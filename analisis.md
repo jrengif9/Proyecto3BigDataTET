@@ -7,7 +7,7 @@ Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas pro
 - [Problemáticas](#Problemáticas)
 	- [Problemas abstracto](#Problema-abstracto)
 	- [Problema especifico](#Problema-especifico)
-- [Aquitectura preliminar](#)
+- [Aquitectura preliminar](#Arquitectura-preliminar-de-datos-(ciclo-de-vida,-almacenamiento,-procesamiento))
 - [](#)
 
 
@@ -39,7 +39,7 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 **Objetivo:** Analizar publicaciones realizadas en la red social tomar mejorwitter sobre comentarios que contengan palabras claves relacionadas con politicas hacia la comunidad LGBTI y determinar que porcentaje de dichos comentarios tienen una posición positiva, neutra o negativa.
 
 
-## Arquitectura preliminar de datos (ciclo de vida, almacenamiento, procesamiento).
+## Arquitectura preliminar de datos (ciclo de vida, almacenamiento, procesamiento)
 
 
 
@@ -54,7 +54,7 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODY2ODU3MCwxOTYwMzA2MTUxLDMxND
+eyJoaXN0b3J5IjpbMTQ3NDc1MjA5OCwxOTYwMzA2MTUxLDMxND
 Q4MzMzMSwtMTMxNTk3OTE0MywxODkxMjE5NzcyLDM0NjUxMTk5
 NiwxNDMwOTU4MjYwLC0yMTM3ODE5MDE5LC00ODYzOTg0NjIsLT
 EyMDUzNzgyMSwtMTgzMDk4MTU2MCwtMjA4ODc0NjYxMiw5ODM2
