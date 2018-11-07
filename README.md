@@ -32,9 +32,13 @@
 ## Instalaciones
 
 Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnologías usadas.
+
+### Flume
+
+### Spark-NLP
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNT
-MyMjY1ODcsNjgyOTM1MzldfQ==
+eyJoaXN0b3J5IjpbLTY3OTQxNTI1NywzMzcyNzgwNTAsLTExNT
+E4NjEwODAsMjA1MzIyNjU4Nyw2ODI5MzUzOV19
 -->
