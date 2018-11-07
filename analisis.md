@@ -59,6 +59,8 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ### Apache Flume
 
+![](https://i.ytimg.com/vi/le2AFLtFkB0/maxresdefault.jpg)
+
 Flume es un servicio distribuido, confiable y disponible para recopilar, agregar y mover de manera eficiente grandes cantidades de datos de registro. Tiene una arquitectura simple y flexible basada en flujos de datos de transmisión. Es robusto y tolerante a fallas con mecanismos de confiabilidad sintonizables y muchos mecanismos de recuperación y recuperación de fallas. Utiliza un modelo de datos extensible simple que permite la aplicación analítica en línea.
 
 ## Almacenamiento de los datos + tecnologías a utilizar.
@@ -78,7 +80,7 @@ Apache Hive es un proyecto de código abierto ejecutado por voluntarios en Apach
 - [1] https://flume.apache.org/
 - [2] https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3OTQzNjU4LC0xNTA2MDI2NDQwLDIxND
+eyJoaXN0b3J5IjpbOTYyOTU4MjcwLC0xNTA2MDI2NDQwLDIxND
 EyMTEwOTIsMTQyMDU4NTA5MSwtMTQxNTYxMzAsLTMxOTMwNjgx
 NywxMDgxMjM2MDc2LC0xMjY4MjI4MTg0LDE0NzQ3NTIwOTgsMT
 k2MDMwNjE1MSwzMTQ0ODMzMzEsLTEzMTU5NzkxNDMsMTg5MTIx
