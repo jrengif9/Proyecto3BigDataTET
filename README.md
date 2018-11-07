@@ -29,9 +29,9 @@
 	5.  Almacenamiento de los datos + tecnologías a utilizar.
 	6.  Análisis de datos + tecnologías a utilizar.
 	
-- **diseño+implementación.md:**
+- **[diseño+implementación.md:](diseño+implementacion.md)**
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwOTg2NTYzLDIwNTMyMjY1ODcsNjgyOT
+eyJoaXN0b3J5IjpbNzU3NDcyMTA2LDIwNTMyMjY1ODcsNjgyOT
 M1MzldfQ==
 -->
