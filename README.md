@@ -23,7 +23,7 @@
 
 **Estudiantes:**
 - José Orlando Rengifo Caicedo
-- Ivan Santiago Vargas
+- Ivan Santiago Vargas Ortega
 
 ## Documentación
 
@@ -61,10 +61,11 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 ### Spark-NLP
 	
 #### Instalación y configuración
-
+http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYwODk0NywxNDEyMjgyMTIxLDk3MD
-U0NDQyOSw2MDc5MzE4MzYsNTAwMjI2OTI5LDIwMDM1MzAzNzks
-LTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNT
-MyMjY1ODcsNjgyOTM1MzldfQ==
+eyJoaXN0b3J5IjpbLTE2ODgzNTE2ODksODU0NjMzMjQ5LC0xNj
+Y2MDg5NDcsMTQxMjI4MjEyMSw5NzA1NDQ0MjksNjA3OTMxODM2
+LDUwMDIyNjkyOSwyMDAzNTMwMzc5LC0yMTE1MzAyNjIzLDMzNz
+I3ODA1MCwtMTE1MTg2MTA4MCwyMDUzMjI2NTg3LDY4MjkzNTM5
+XX0=
 -->

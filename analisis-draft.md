@@ -3,6 +3,20 @@
 **Problema abstracto**
 	Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utilizando una de las siguientes tecnologías: Kafka, Storm, Flink o Flume.
 
+**Contenidos**
+- [Glosario](#Glosario)
+	- [Prueba de Concepto](#Prueba-de-Concepto)
+	- [Data Streaming](#Data-Streaming)
+	- [Tecnologías](#Tecnologías)
+		- [kafka](#Kafka)
+		- [Storm](#Storm)
+		- [Flink](#Flink)
+		- [Flume](#Flume)
+- [Referencias](#Referencias)
+	- [Paginas](Paginas)
+	- [Imágenes](Imágenes)
+
+
 ## Glosario:
 
 ### Prueba de Concepto
@@ -17,6 +31,8 @@ Los datos de streaming son datos que se generan constantemente a partir de miles
 
 #### Kafka
 
+![logSin titulo](imagenes/kafka.png)
+
 Apache Kafka es una plataforma distribuida de Streaming utilizada para construir plataformas de procesamiento en tiempo real y permite las siguientes operaciones[3]:
 
 -   Publicar y suscribirse a flujos de información.
@@ -24,6 +40,8 @@ Apache Kafka es una plataforma distribuida de Streaming utilizada para construir
 -   Procesar los flujos de información en tiempo real.
 
 #### Storm
+
+![logo](imagenes/storm.png)
 
 Apache storm es un sistema computacional de código abierto distribuido en tiempo real para procesar flujos de datos. Al igual que lo que Hadoop solía hacer para el procesamiento por lotes, Apache Storm hace para flujos de datos ilimitados de una manera confiable[4].
 
@@ -33,11 +51,15 @@ Apache storm es un sistema computacional de código abierto distribuido en tiemp
 
 #### Flink
 
+![logo](imagenes/flink.png)
+
 Se trata de un motor de procesamiento de  **_streams_**  o  **flujos de datos**  que proporciona capacidades de distribución de datos, comunicaciones y, muy importante, tolerancia a fallos a las computaciones[5].
 
 Cuando hablamos de computación distribuida, lo primero que se nos viene a la cabeza es el celebérrimo  Apache Hadoop,  El modelo seguido por Apache Flink fue pensado desde el principio como alternativa a MapReduce, lo que no significa que no pueda acceder y hacer uso tanto de  HDFS  o como de  YARN.
 
 #### Flume
+
+![logo](imagenes/flume.png)
 
 Apache Flume es un servicio distribuido que mueve de forma fiable y eficiente grandes cantidades de datos, especialmente **logs**. Ideal para aplicaciones de analíticas en línea en **entornos Hadoop**.[6]
 
@@ -45,7 +67,7 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 
 ## Referencias
 
-**Paginas**
+### Paginas
 - [1] http://www.slmsc-project.eu/es/?page_id=2145
 - [2] https://aws.amazon.com/es/streaming-data/
 - [3] https://devs4j.com/2017/10/04/primeros-pasos-con-apache-kafka-en-espanol/
@@ -53,17 +75,19 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 - [5] https://flume.apache.org/
 - [6] http://www.diegocalvo.es/flume/
 
-**Imagenes**
+### Imágenes
 
 - [1] http://muxiulin.cn/wp-content/uploads/2017/11/2f5d8fc1-c11d-4f91-aa0b-cdac4bd097fa.jpg
 - [2] https://2xbbhjxc6wk3v21p62t8n4d4-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/storm_2.png
 - [3] https://www.paradigmadigital.com/wp-content/uploads/2017/02/flink-logo.png
+- [4] https://www.tutorialspoint.com/apache_flume/images/apache_flume.jpg
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5NTQ0OTM3LDE0NjM1NjE5NzksLTE0OD
-Y2NTUzMzQsMTMwNjc5MzQ1OSwyMTI1MDc4MzU5LDE5MzMyMDcx
-NSwyODY0NTE1MzUsLTE2ODU1MjA5NzcsODUzNjI2MTA0LC02Nj
-EzMzQzODgsLTE4MTY2MjE5MTUsLTI0NjA4MTg3LDk5MDc0NjA5
-OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbOTQzNzk5ODU0LDE4MTg3NzM4MjEsOTU3ND
+UwODY4LC0xNjQ0NTE1OTY3LDc5NjU2NzI0MywxNDYzNTYxOTc5
+LC0xNDg2NjU1MzM0LDEzMDY3OTM0NTksMjEyNTA3ODM1OSwxOT
+MzMjA3MTUsMjg2NDUxNTM1LC0xNjg1NTIwOTc3LDg1MzYyNjEw
+NCwtNjYxMzM0Mzg4LC0xODE2NjIxOTE1LC0yNDYwODE4Nyw5OT
+A3NDYwOTgsLTIwODg3NDY2MTJdfQ==
 -->
