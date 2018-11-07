@@ -19,7 +19,7 @@
 
 	Este documento contiene un  breve acercamiento al tema tratado  en este proyecto con respectiva diferenciación con el fin de dar una introducción a los temas tratados a continuación.
 	
-- **analisis.md:**
+- **[analisis.md:](analisis.md)**
 
 	Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas profundamente los temas de arquitecturas de datos y como estos interactuan con el software a utilizar
 	1.  Problema a resolver.
@@ -32,6 +32,6 @@
 - **diseño+implementación.md:**
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MDk0MDMzLDIwNTMyMjY1ODcsNjgyOT
+eyJoaXN0b3J5IjpbNDUwOTg2NTYzLDIwNTMyMjY1ODcsNjgyOT
 M1MzldfQ==
 -->
