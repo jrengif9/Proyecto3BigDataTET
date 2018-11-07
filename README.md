@@ -1,7 +1,7 @@
 # Proyecto 3 BigData - TET
 
 **Contenidos:**
-- [Integ](analisis-draft.md)
+- [Integrantes](Integrantes)
 
 
 
@@ -33,6 +33,6 @@
 - **[diseño+implementación.md:](diseño+implementacion.md)**
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ5OTc2NjgsMjA1MzIyNjU4Nyw2OD
+eyJoaXN0b3J5IjpbLTExNTE4NjEwODAsMjA1MzIyNjU4Nyw2OD
 I5MzUzOV19
 -->
