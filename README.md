@@ -55,6 +55,7 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 
 **Video tutorial:**[¿Como configurar Apache Flume?](https://www.youtube.com/watch?v=xZ2LL1nPvzI)
+*Componentes a configurar*
 
 (http://flume.apache.org/download.html)
 
@@ -63,9 +64,9 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgzNTE2ODksODU0NjMzMjQ5LC0xNj
-Y2MDg5NDcsMTQxMjI4MjEyMSw5NzA1NDQ0MjksNjA3OTMxODM2
-LDUwMDIyNjkyOSwyMDAzNTMwMzc5LC0yMTE1MzAyNjIzLDMzNz
-I3ODA1MCwtMTE1MTg2MTA4MCwyMDUzMjI2NTg3LDY4MjkzNTM5
-XX0=
+eyJoaXN0b3J5IjpbMTQ5MzE3ODcyNSwtMTY4ODM1MTY4OSw4NT
+Q2MzMyNDksLTE2NjYwODk0NywxNDEyMjgyMTIxLDk3MDU0NDQy
+OSw2MDc5MzE4MzYsNTAwMjI2OTI5LDIwMDM1MzAzNzksLTIxMT
+UzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNTMyMjY1
+ODcsNjgyOTM1MzldfQ==
 -->
