@@ -65,7 +65,7 @@ http://flume.apache.org/download.html
  
 2.**Palabras claves  y configuración de la fuente** 
 
-![Sin titulo](imagenes/saveinfo.PNG)
+ ![Sin titulo](imagenes/Conexion%20twitter.PNG)
  
 3.**Sitio de almacenamiento de información y sincronización**
 
@@ -83,7 +83,7 @@ http://flume.apache.org/download.html
 
 Después de tener una cuenta en Twitter, se debe solicitar permisos de desarrollador**, explicando el poque se quiere tener estos permisos y que se queire hacer con la aplicacion, ya luego de ser confirmado se debe llenar una información basica y ya brinda las Keys para la app. 
 
- ![Sin titulo](imagenes/Conexion%20twitter.PNG)
+
 
 	
 
@@ -92,7 +92,7 @@ Después de tener una cuenta en Twitter, se debe solicitar permisos de desarroll
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTc3Njg1MCwtOTA0ODAzMjYxLC0xNj
+eyJoaXN0b3J5IjpbLTMwNTA2MTAyMywtOTA0ODAzMjYxLC0xNj
 IwNzQxMTgyLDE0MjgwMzM0MzYsLTMyMDc0NzQsMTczMTUyNDI1
 NCwxMTE4MTcxMjUxLDExMTc3ODYyNTYsLTcwMTM4MTcyMiwtMT
 Y4ODM1MTY4OSw4NTQ2MzMyNDksLTE2NjYwODk0NywxNDEyMjgy
