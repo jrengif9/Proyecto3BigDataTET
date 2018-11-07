@@ -80,13 +80,14 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 - [1] http://muxiulin.cn/wp-content/uploads/2017/11/2f5d8fc1-c11d-4f91-aa0b-cdac4bd097fa.jpg
 - [2] https://2xbbhjxc6wk3v21p62t8n4d4-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/storm_2.png
 - [3] https://www.paradigmadigital.com/wp-content/uploads/2017/02/flink-logo.png
+- [4] https://www.tutorialspoint.com/apache_flume/images/apache_flume.jpg
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODc3MzgyMSw5NTc0NTA4NjgsLTE2ND
-Q1MTU5NjcsNzk2NTY3MjQzLDE0NjM1NjE5NzksLTE0ODY2NTUz
-MzQsMTMwNjc5MzQ1OSwyMTI1MDc4MzU5LDE5MzMyMDcxNSwyOD
-Y0NTE1MzUsLTE2ODU1MjA5NzcsODUzNjI2MTA0LC02NjEzMzQz
-ODgsLTE4MTY2MjE5MTUsLTI0NjA4MTg3LDk5MDc0NjA5OCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbOTQzNzk5ODU0LDE4MTg3NzM4MjEsOTU3ND
+UwODY4LC0xNjQ0NTE1OTY3LDc5NjU2NzI0MywxNDYzNTYxOTc5
+LC0xNDg2NjU1MzM0LDEzMDY3OTM0NTksMjEyNTA3ODM1OSwxOT
+MzMjA3MTUsMjg2NDUxNTM1LC0xNjg1NTIwOTc3LDg1MzYyNjEw
+NCwtNjYxMzM0Mzg4LC0xODE2NjIxOTE1LC0yNDYwODE4Nyw5OT
+A3NDYwOTgsLTIwODg3NDY2MTJdfQ==
 -->
