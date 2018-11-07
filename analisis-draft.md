@@ -17,7 +17,7 @@ Los datos de streaming son datos que se generan constantemente a partir de miles
 
 #### Kafka
 
-Apache Kafka[3] es una plataforma distribuida de Streaming utilizada para construir plataformas de procesamiento en tiempo real y permite las siguientes operaciones:
+Apache Kafka es una plataforma distribuida de Streaming utilizada para construir plataformas de procesamiento en tiempo real y permite las siguientes operaciones[3]:
 
 -   Publicar y suscribirse a flujos de información.
 -   Guardar flujos de información en un modo tolerante a fallas.
@@ -61,9 +61,9 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODYxMjE5NSwxNDYzNTYxOTc5LC0xND
-g2NjU1MzM0LDEzMDY3OTM0NTksMjEyNTA3ODM1OSwxOTMzMjA3
-MTUsMjg2NDUxNTM1LC0xNjg1NTIwOTc3LDg1MzYyNjEwNCwtNj
-YxMzM0Mzg4LC0xODE2NjIxOTE1LC0yNDYwODE4Nyw5OTA3NDYw
-OTgsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNTg5NTQ0OTM3LDE0NjM1NjE5NzksLTE0OD
+Y2NTUzMzQsMTMwNjc5MzQ1OSwyMTI1MDc4MzU5LDE5MzMyMDcx
+NSwyODY0NTE1MzUsLTE2ODU1MjA5NzcsODUzNjI2MTA0LC02Nj
+EzMzQzODgsLTE4MTY2MjE5MTUsLTI0NjA4MTg3LDk5MDc0NjA5
+OCwtMjA4ODc0NjYxMl19
 -->
