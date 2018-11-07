@@ -7,7 +7,14 @@
 - Glosario
 	- Prueba de Concepto
 	- Data Streaming
-	- 
+	- Tecnologías
+		- kafka
+		- Storm
+		- Flink
+		- Flume
+- Referencias
+	- Paginas
+	- Imagenes
 
 
 ## Glosario:
@@ -60,7 +67,7 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 
 ## Referencias
 
-**Paginas**
+### Paginas
 - [1] http://www.slmsc-project.eu/es/?page_id=2145
 - [2] https://aws.amazon.com/es/streaming-data/
 - [3] https://devs4j.com/2017/10/04/primeros-pasos-con-apache-kafka-en-espanol/
@@ -68,7 +75,7 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 - [5] https://flume.apache.org/
 - [6] http://www.diegocalvo.es/flume/
 
-**Imagenes**
+### Imagenes
 
 - [1] http://muxiulin.cn/wp-content/uploads/2017/11/2f5d8fc1-c11d-4f91-aa0b-cdac4bd097fa.jpg
 - [2] https://2xbbhjxc6wk3v21p62t8n4d4-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/storm_2.png
@@ -76,10 +83,10 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTYzMjI0MiwtMTY0NDUxNTk2Nyw3OT
-Y1NjcyNDMsMTQ2MzU2MTk3OSwtMTQ4NjY1NTMzNCwxMzA2Nzkz
-NDU5LDIxMjUwNzgzNTksMTkzMzIwNzE1LDI4NjQ1MTUzNSwtMT
-Y4NTUyMDk3Nyw4NTM2MjYxMDQsLTY2MTMzNDM4OCwtMTgxNjYy
-MTkxNSwtMjQ2MDgxODcsOTkwNzQ2MDk4LC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbMjQyNzIyMTc2LC0xNjQ0NTE1OTY3LDc5Nj
+U2NzI0MywxNDYzNTYxOTc5LC0xNDg2NjU1MzM0LDEzMDY3OTM0
+NTksMjEyNTA3ODM1OSwxOTMzMjA3MTUsMjg2NDUxNTM1LC0xNj
+g1NTIwOTc3LDg1MzYyNjEwNCwtNjYxMzM0Mzg4LC0xODE2NjIx
+OTE1LC0yNDYwODE4Nyw5OTA3NDYwOTgsLTIwODg3NDY2MTJdfQ
+==
 -->
