@@ -1,5 +1,8 @@
 # Proyecto 3 BigData - TET
 
+**Materia:** Tópicos especiales en telematica
+
+
 **Contenidos:**
 - [Integrantes](#Integrantes)
 - [Documentación](#Documentación)
@@ -52,7 +55,7 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzUzMDM3OSwtMjExNTMwMjYyMywzMz
-cyNzgwNTAsLTExNTE4NjEwODAsMjA1MzIyNjU4Nyw2ODI5MzUz
-OV19
+eyJoaXN0b3J5IjpbNTAwMjI2OTI5LDIwMDM1MzAzNzksLTIxMT
+UzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNTMyMjY1
+ODcsNjgyOTM1MzldfQ==
 -->
