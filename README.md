@@ -59,6 +59,8 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 
  1 **Configuración inicial**
  
+ ![
+ 
  2.**Palabras claves  y configuración de la fuente**
  
  3. **Sitio de almacenamiento de información y sincronización **
@@ -67,7 +69,7 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 
 (http://flume.apache.org/download.html)
 
-### **Crear Aplicacion en Twitter**
+### Crear Aplicacion en Twitter
 Después de tener una cuenta en Twitter, se debe solicitar permisos de desarrollador**, explicando el poque se quiere tener estos permisos y que se queire hacer con la aplicacion, ya luego de ser confirmado se debe llenar una información basica y ya brinda las Keys para la app. 
 	
 
@@ -76,11 +78,11 @@ Después de tener una cuenta en Twitter, se debe solicitar permisos de desarroll
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDgwMzI2MSwtMTYyMDc0MTE4MiwxND
-I4MDMzNDM2LC0zMjA3NDc0LDE3MzE1MjQyNTQsMTExODE3MTI1
-MSwxMTE3Nzg2MjU2LC03MDEzODE3MjIsLTE2ODgzNTE2ODksOD
-U0NjMzMjQ5LC0xNjY2MDg5NDcsMTQxMjI4MjEyMSw5NzA1NDQ0
-MjksNjA3OTMxODM2LDUwMDIyNjkyOSwyMDAzNTMwMzc5LC0yMT
-E1MzAyNjIzLDMzNzI3ODA1MCwtMTE1MTg2MTA4MCwyMDUzMjI2
-NTg3XX0=
+eyJoaXN0b3J5IjpbMTgxODQzMzg4NSwtOTA0ODAzMjYxLC0xNj
+IwNzQxMTgyLDE0MjgwMzM0MzYsLTMyMDc0NzQsMTczMTUyNDI1
+NCwxMTE4MTcxMjUxLDExMTc3ODYyNTYsLTcwMTM4MTcyMiwtMT
+Y4ODM1MTY4OSw4NTQ2MzMyNDksLTE2NjYwODk0NywxNDEyMjgy
+MTIxLDk3MDU0NDQyOSw2MDc5MzE4MzYsNTAwMjI2OTI5LDIwMD
+M1MzAzNzksLTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYx
+MDgwXX0=
 -->
