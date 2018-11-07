@@ -3,7 +3,9 @@
 **Contenidos:**
 - [Integrantes](#Integrantes)
 - [Documentación](#Documentación)
-	- ana 
+	- [analisis-draft.md](analisis-draft.md)
+	-  [analisis.md:](analisis.md)
+	-  [diseño+implementación.md:](diseño+implementacion.md)
 
 ## Integrantes
 
@@ -34,7 +36,7 @@
 
 	Aqui se aborda a profundidad la arquitectura del software a utilizar para la solución de nuestro proyecto.
 
-## Instalaciones
+## Instalaci
 
 Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnologías usadas.
 
@@ -47,7 +49,7 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjEyMTkxNCwtMjExNTMwMjYyMywzMz
+eyJoaXN0b3J5IjpbLTg2MzQ3MzE5MCwtMjExNTMwMjYyMywzMz
 cyNzgwNTAsLTExNTE4NjEwODAsMjA1MzIyNjU4Nyw2ODI5MzUz
 OV19
 -->
