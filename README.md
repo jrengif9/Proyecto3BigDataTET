@@ -53,7 +53,9 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 ### Apache Flume
 
 #### Instalación y configuración
-http://flume.apache.org/download.html
+
+**Video tutorial:**[l](http://flume.apache.org/download.html)
+
 https://www.youtube.com/watch?v=xZ2LL1nPvzI
 
 ### Spark-NLP
@@ -61,7 +63,7 @@ https://www.youtube.com/watch?v=xZ2LL1nPvzI
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTk5MTk4MSwxNDEyMjgyMTIxLDk3MD
+eyJoaXN0b3J5IjpbMTkwMjg2NjQxNSwxNDEyMjgyMTIxLDk3MD
 U0NDQyOSw2MDc5MzE4MzYsNTAwMjI2OTI5LDIwMDM1MzAzNzks
 LTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNT
 MyMjY1ODcsNjgyOTM1MzldfQ==
