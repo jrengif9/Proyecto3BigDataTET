@@ -59,7 +59,7 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 
  1 **Configuración inicial**
  
- ![
+ ![Sin titulo](imagenes/configinicial.PNG)
  
  2.**Palabras claves  y configuración de la fuente**
  
@@ -78,11 +78,11 @@ Después de tener una cuenta en Twitter, se debe solicitar permisos de desarroll
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODQzMzg4NSwtOTA0ODAzMjYxLC0xNj
-IwNzQxMTgyLDE0MjgwMzM0MzYsLTMyMDc0NzQsMTczMTUyNDI1
-NCwxMTE4MTcxMjUxLDExMTc3ODYyNTYsLTcwMTM4MTcyMiwtMT
-Y4ODM1MTY4OSw4NTQ2MzMyNDksLTE2NjYwODk0NywxNDEyMjgy
-MTIxLDk3MDU0NDQyOSw2MDc5MzE4MzYsNTAwMjI2OTI5LDIwMD
-M1MzAzNzksLTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYx
-MDgwXX0=
+eyJoaXN0b3J5IjpbLTE1MzM0NzUwMjIsLTkwNDgwMzI2MSwtMT
+YyMDc0MTE4MiwxNDI4MDMzNDM2LC0zMjA3NDc0LDE3MzE1MjQy
+NTQsMTExODE3MTI1MSwxMTE3Nzg2MjU2LC03MDEzODE3MjIsLT
+E2ODgzNTE2ODksODU0NjMzMjQ5LC0xNjY2MDg5NDcsMTQxMjI4
+MjEyMSw5NzA1NDQ0MjksNjA3OTMxODM2LDUwMDIyNjkyOSwyMD
+AzNTMwMzc5LC0yMTE1MzAyNjIzLDMzNzI3ODA1MCwtMTE1MTg2
+MTA4MF19
 -->
