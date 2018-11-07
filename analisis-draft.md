@@ -33,13 +33,13 @@ Apache storm es un sistema computacional de código abierto distribuido en tiemp
 
 #### Flink
 
-Se trata de un motor de procesamiento de  **_streams_**  o  **flujos de datos**  que proporciona capacidades de distribución de datos, comunicaciones y, muy importante, tolerancia a fallos a las computaciones.
+Se trata de un motor de procesamiento de  **_streams_**  o  **flujos de datos**  que proporciona capacidades de distribución de datos, comunicaciones y, muy importante, tolerancia a fallos a las computaciones[5].
 
-Cuando hablamos de computación distribuida, lo primero que se nos viene a la cabeza es el celebérrimo  Apache Hadoop,  El modelo seguido por Apache Flink fue pensado desde el principio como alternativa a MapReduce, lo que no significa que no pueda acceder y hacer uso tanto de  HDFS  o como de  [YARN.
+Cuando hablamos de computación distribuida, lo primero que se nos viene a la cabeza es el celebérrimo  Apache Hadoop,  El modelo seguido por Apache Flink fue pensado desde el principio como alternativa a MapReduce, lo que no significa que no pueda acceder y hacer uso tanto de  HDFS  o como de  YARN.
 
 #### Flume
 
-Apache Flume es un servicio distribuido que mueve de forma fiable y eficiente grandes cantidades de datos, especialmente **logs**. Ideal para aplicaciones de analíticas en línea en **entornos Hadoop**.
+Apache Flume es un servicio distribuido que mueve de forma fiable y eficiente grandes cantidades de datos, especialmente **logs**. Ideal para aplicaciones de analíticas en línea en **entornos Hadoop**.[6]
 
 Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en streaming**, que permite construir flujos de múltiples por donde viajan los eventos a través de diferentes agentes hasta que alcanzan el destino final.
 
@@ -50,7 +50,8 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 - [2] https://aws.amazon.com/es/streaming-data/
 - [3] https://devs4j.com/2017/10/04/primeros-pasos-con-apache-kafka-en-espanol/
 - [4] https://intellipaat.com/blog/what-is-apache-storm/
-- [5] http://www.diegocalvo.es/flume/
+- [5] https://flume.apache.org/
+- [6] http://www.diegocalvo.es/flume/
 
 **Imagenes**
 
@@ -60,7 +61,7 @@ Flume tiene una arquitectura sencilla y flexible basada en **flujos de datos en 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDk3MzUzMywxNDYzNTYxOTc5LC0xND
+eyJoaXN0b3J5IjpbMTI4ODYxMjE5NSwxNDYzNTYxOTc5LC0xND
 g2NjU1MzM0LDEzMDY3OTM0NTksMjEyNTA3ODM1OSwxOTMzMjA3
 MTUsMjg2NDUxNTM1LC0xNjg1NTIwOTc3LDg1MzYyNjEwNCwtNj
 YxMzM0Mzg4LC0xODE2NjIxOTE1LC0yNDYwODE4Nyw5OTA3NDYw
