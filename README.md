@@ -58,9 +58,7 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 *
 
  1**. Componentes a configurar**
- 
-
-
+ 2. List item
 
 (http://flume.apache.org/download.html)
 
@@ -69,9 +67,9 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTM4MTcyMiwtMTY4ODM1MTY4OSw4NT
-Q2MzMyNDksLTE2NjYwODk0NywxNDEyMjgyMTIxLDk3MDU0NDQy
-OSw2MDc5MzE4MzYsNTAwMjI2OTI5LDIwMDM1MzAzNzksLTIxMT
-UzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNTMyMjY1
-ODcsNjgyOTM1MzldfQ==
+eyJoaXN0b3J5IjpbMzYxMDA0OTQ3LC03MDEzODE3MjIsLTE2OD
+gzNTE2ODksODU0NjMzMjQ5LC0xNjY2MDg5NDcsMTQxMjI4MjEy
+MSw5NzA1NDQ0MjksNjA3OTMxODM2LDUwMDIyNjkyOSwyMDAzNT
+MwMzc5LC0yMTE1MzAyNjIzLDMzNzI3ODA1MCwtMTE1MTg2MTA4
+MCwyMDUzMjI2NTg3LDY4MjkzNTM5XX0=
 -->
