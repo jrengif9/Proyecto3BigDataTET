@@ -25,6 +25,8 @@ Apache Kafka es una plataforma distribuida de Streaming utilizada para construir
 
 #### Storm
 
+Apache storm es un sistema computacional de código abierto distribuido en tiempo real para procesar flujos de datos. Al igual que lo que Hadoop solía hacer para el procesamiento por lotes, Apache Storm hace para flujos de datos ilimitados de una manera confiable.
+
 #### Flink
 
 #### Flume
@@ -34,12 +36,12 @@ Apache Kafka es una plataforma distribuida de Streaming utilizada para construir
 [1] http://www.slmsc-project.eu/es/?page_id=2145
 [2] https://aws.amazon.com/es/streaming-data/
 [3] https://devs4j.com/2017/10/04/primeros-pasos-con-apache-kafka-en-espanol/
-[
+[4] https://intellipaat.com/blog/what-is-apache-storm/
 
 **Imagenes**
 
 [1] http://muxiulin.cn/wp-content/uploads/2017/11/2f5d8fc1-c11d-4f91-aa0b-cdac4bd097fa.jpg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjY4NjAzOSwtMTgxNjYyMTkxNSwtMj
-Q2MDgxODcsOTkwNzQ2MDk4LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNTQ5MDY0NzI0LC0xODE2NjIxOTE1LC0yND
+YwODE4Nyw5OTA3NDYwOTgsLTIwODg3NDY2MTJdfQ==
 -->
