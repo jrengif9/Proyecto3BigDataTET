@@ -45,7 +45,10 @@ Analizar estos temas ayudaría tomar mejores decisiones a ciertos sectores de la
 
 ## Arquitectura preliminar de datos (ciclo de vida, almacenamiento, procesamiento)
 
+ **Ciclo de Vida:**  El ciclo de vida de los datos comienza en los Tweets que producen los usurios de Twitter, aquellos tweets deben estar relacionados con unas palabras a las que llamaremos  **keywords**, que para nuestro caso son "Coca-cola" y "Pepsi". Twitter entonces proveera una interfaz por medio de una API ([Apps Twitter](https://apps.twitter.com/)), dicha API sera accedida por un agente que tomara los datos bajo tecnicas de DataStreaming y lo almacenara en alguna tecnologia de Storage (Para el caso HDFS).
+ 
 
+ **Almacenamiento:**  Dado que es un proceso constante e inserción de datos, es fundamental tener un sistema de almacenamiento escalable que garantice el acceso a los datos, y que ojalá sea de una manera sencilla. Inicialmente los datos son extraidos con un formato  [JSON](https://es.wikipedia.org/wiki/JSON)  del cual pueden extraerse atributos fundamentales para el análisis.
 
 ## Fuentes y naturaleza de los datos + tecnologías a utilizar.
 
@@ -67,10 +70,10 @@ Flume es un servicio distribuido, confiable y disponible para recopilar, agregar
 
 - [1] https://flume.apache.org/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTMwNjgxNywxMDgxMjM2MDc2LC0xMj
-Y4MjI4MTg0LDE0NzQ3NTIwOTgsMTk2MDMwNjE1MSwzMTQ0ODMz
-MzEsLTEzMTU5NzkxNDMsMTg5MTIxOTc3MiwzNDY1MTE5OTYsMT
-QzMDk1ODI2MCwtMjEzNzgxOTAxOSwtNDg2Mzk4NDYyLC0xMjA1
-Mzc4MjEsLTE4MzA5ODE1NjAsLTIwODg3NDY2MTIsOTgzNjQ2NT
-A2XX0=
+eyJoaXN0b3J5IjpbLTE0MTU2MTMwLC0zMTkzMDY4MTcsMTA4MT
+IzNjA3NiwtMTI2ODIyODE4NCwxNDc0NzUyMDk4LDE5NjAzMDYx
+NTEsMzE0NDgzMzMxLC0xMzE1OTc5MTQzLDE4OTEyMTk3NzIsMz
+Q2NTExOTk2LDE0MzA5NTgyNjAsLTIxMzc4MTkwMTksLTQ4NjM5
+ODQ2MiwtMTIwNTM3ODIxLC0xODMwOTgxNTYwLC0yMDg4NzQ2Nj
+EyLDk4MzY0NjUwNl19
 -->
