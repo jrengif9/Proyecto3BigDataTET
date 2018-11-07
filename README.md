@@ -33,7 +33,7 @@
 
 Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnologías usadas.
 
-### Flume
+### Apache Flume
 
 #### Instalación y configuración
 
@@ -42,6 +42,6 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTAxNjY2NSwzMzcyNzgwNTAsLTExNT
-E4NjEwODAsMjA1MzIyNjU4Nyw2ODI5MzUzOV19
+eyJoaXN0b3J5IjpbLTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMT
+UxODYxMDgwLDIwNTMyMjY1ODcsNjgyOTM1MzldfQ==
 -->
