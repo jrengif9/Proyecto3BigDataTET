@@ -23,7 +23,7 @@
 
 **Estudiantes:**
 - José Orlando Rengifo Caicedo
-- Ivan Santiago Vargas
+- Ivan Santiago Vargas Ortega
 
 ## Documentación
 
@@ -63,8 +63,8 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYwODk0NywxNDEyMjgyMTIxLDk3MD
-U0NDQyOSw2MDc5MzE4MzYsNTAwMjI2OTI5LDIwMDM1MzAzNzks
-LTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNT
-MyMjY1ODcsNjgyOTM1MzldfQ==
+eyJoaXN0b3J5IjpbODU0NjMzMjQ5LC0xNjY2MDg5NDcsMTQxMj
+I4MjEyMSw5NzA1NDQ0MjksNjA3OTMxODM2LDUwMDIyNjkyOSwy
+MDAzNTMwMzc5LC0yMTE1MzAyNjIzLDMzNzI3ODA1MCwtMTE1MT
+g2MTA4MCwyMDUzMjI2NTg3LDY4MjkzNTM5XX0=
 -->
