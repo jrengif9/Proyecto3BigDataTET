@@ -7,6 +7,7 @@
 	-  [analisis.md:](analisis.md)
 	-  [diseño+implementación.md:](diseño+implementacion.md)
 -  [Instalación y configuración](#Instalación y configuración)
+	- [Apache Flume](#ApacheFlume)
 
 ## Integrantes
 
@@ -50,7 +51,7 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY5NDM5NzYsLTIxMTUzMDI2MjMsMz
-M3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNTMyMjY1ODcsNjgyOTM1
-MzldfQ==
+eyJoaXN0b3J5IjpbMTU2OTM0MTQyMSwtMjExNTMwMjYyMywzMz
+cyNzgwNTAsLTExNTE4NjEwODAsMjA1MzIyNjU4Nyw2ODI5MzUz
+OV19
 -->
