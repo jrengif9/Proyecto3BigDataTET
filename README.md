@@ -23,7 +23,7 @@
 
 **Estudiantes:**
 - José Orlando Rengifo Caicedo
-- Ivan Santiago Vargas
+- Ivan Santiago Vargas Ortega
 
 ## Documentación
 
@@ -55,16 +55,27 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 
 **Video tutorial:**[¿Como configurar Apache Flume?](https://www.youtube.com/watch?v=xZ2LL1nPvzI)
+*
+
+ 1 **Configuración inicial**
+ 
+ 2.**Palabras claves  y configuración de la fuente**
+ 
+ 3. **Sitio de almacenamiento de información y sincronización **
+ 
+ 5. **Capacidad de la memoria y canal de configuración**
 
 (http://flume.apache.org/download.html)
 
 ### Spark-NLP
 	
 #### Instalación y configuración
-
+http://10.131.137.183:9995/#/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYwODk0NywxNDEyMjgyMTIxLDk3MD
-U0NDQyOSw2MDc5MzE4MzYsNTAwMjI2OTI5LDIwMDM1MzAzNzks
-LTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNT
-MyMjY1ODcsNjgyOTM1MzldfQ==
+eyJoaXN0b3J5IjpbMTczMTUyNDI1NCwxMTE4MTcxMjUxLDExMT
+c3ODYyNTYsLTcwMTM4MTcyMiwtMTY4ODM1MTY4OSw4NTQ2MzMy
+NDksLTE2NjYwODk0NywxNDEyMjgyMTIxLDk3MDU0NDQyOSw2MD
+c5MzE4MzYsNTAwMjI2OTI5LDIwMDM1MzAzNzksLTIxMTUzMDI2
+MjMsMzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNTMyMjY1ODcsNj
+gyOTM1MzldfQ==
 -->
