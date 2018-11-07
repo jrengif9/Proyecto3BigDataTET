@@ -1,5 +1,8 @@
 # Proyecto 3 BigData - TET
 
+**Contenidos:**
+[Integrantes](#Integrantes)
+
 ## Integrantes
 
 **Profesor:**
@@ -42,6 +45,7 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUzMDI2MjMsMzM3Mjc4MDUwLC0xMT
-UxODYxMDgwLDIwNTMyMjY1ODcsNjgyOTM1MzldfQ==
+eyJoaXN0b3J5IjpbMTEzNTMyNTY3MSwtMjExNTMwMjYyMywzMz
+cyNzgwNTAsLTExNTE4NjEwODAsMjA1MzIyNjU4Nyw2ODI5MzUz
+OV19
 -->
