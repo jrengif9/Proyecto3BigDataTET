@@ -35,10 +35,13 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 
 ### Flume
 
+#### Instalación y configuración
+
 ### Spark-NLP
 	
+#### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTQxNTI1NywzMzcyNzgwNTAsLTExNT
+eyJoaXN0b3J5IjpbMTI1MTAxNjY2NSwzMzcyNzgwNTAsLTExNT
 E4NjEwODAsMjA1MzIyNjU4Nyw2ODI5MzUzOV19
 -->
