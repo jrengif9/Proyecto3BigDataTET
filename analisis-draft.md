@@ -17,6 +17,12 @@ Los datos de streaming son datos que se generan constantemente a partir de miles
 
 #### Kafka
 
+Apache Kafka es una plataforma distribuida de Streaming utilizada para construir plataformas de procesamiento en tiempo real y permite las siguientes operaciones:
+
+-   Publicar y suscribirse a flujos de información
+-   Guardar flujos de información en un modo tolerante a fallas
+-   Procesar los flujos de información en tiempo real
+
 #### Storm
 
 #### Flink
@@ -27,7 +33,8 @@ Los datos de streaming son datos que se generan constantemente a partir de miles
 
 [1] http://www.slmsc-project.eu/es/?page_id=2145
 [2] https://aws.amazon.com/es/streaming-data/
+[3] https://devs4j.com/2017/10/04/primeros-pasos-con-apache-kafka-en-espanol/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjA4MTg3LDk5MDc0NjA5OCwtMjA4OD
-c0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4MTY2MjE5MTUsLTI0NjA4MTg3LDk5MD
+c0NjA5OCwtMjA4ODc0NjYxMl19
 -->
