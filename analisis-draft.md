@@ -18,7 +18,12 @@ El objetivo de la prueba de concepto es valorar el concepto de producto antes de
 #### Storm
 
 #### Flume
+
+## Referencias
+
+[1] http://www.slmsc-project.eu/es/?page_id=2145
+[2]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTA5Mzk3NSw5OTA3NDYwOTgsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMzMyOTg4MDMzLDk5MDc0NjA5OCwtMjA4OD
+c0NjYxMl19
 -->
