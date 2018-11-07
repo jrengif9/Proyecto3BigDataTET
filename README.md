@@ -53,15 +53,15 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 
 #### Instalación y configuración
 http://flume.apache.org/download.html
-
+https://www.youtube.com/watch?v=xZ2LL1nPvzI
 
 ### Spark-NLP
 	
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3OTAwMDMxLDk3MDU0NDQyOSw2MDc5Mz
-E4MzYsNTAwMjI2OTI5LDIwMDM1MzAzNzksLTIxMTUzMDI2MjMs
-MzM3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNTMyMjY1ODcsNjgyOT
-M1MzldfQ==
+eyJoaXN0b3J5IjpbMTQxMjI4MjEyMSw5NzA1NDQ0MjksNjA3OT
+MxODM2LDUwMDIyNjkyOSwyMDAzNTMwMzc5LC0yMTE1MzAyNjIz
+LDMzNzI3ODA1MCwtMTE1MTg2MTA4MCwyMDUzMjI2NTg3LDY4Mj
+kzNTM5XX0=
 -->
