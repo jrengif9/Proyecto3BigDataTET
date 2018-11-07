@@ -8,6 +8,7 @@
 	-  [diseño+implementación.md:](diseño+implementacion.md)
 -  [Instalación y configuración](#Instalación-y-configuración)
 	- [Apache Flume](#Apache-Flume)
+	- [Spark-NLP](#Spark-NLP)
 
 ## Integrantes
 
@@ -51,7 +52,7 @@ Aquí podrás encontrar el paso a paso del proceso de instalación de las tecnol
 #### Instalación y configuración
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQxMjcwMzQsLTIxMTUzMDI2MjMsMz
-M3Mjc4MDUwLC0xMTUxODYxMDgwLDIwNTMyMjY1ODcsNjgyOTM1
-MzldfQ==
+eyJoaXN0b3J5IjpbNzI2MjY4MzM3LC0yMTE1MzAyNjIzLDMzNz
+I3ODA1MCwtMTE1MTg2MTA4MCwyMDUzMjI2NTg3LDY4MjkzNTM5
+XX0=
 -->
