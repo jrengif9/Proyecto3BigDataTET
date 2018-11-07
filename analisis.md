@@ -3,6 +3,10 @@ Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas pro
 
 ## Problema a resolver.
 
+**Problema abstracto**
+
+Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utilizando una de las siguientes tecnologías: Kafka, Storm, Flink o Flume.
+
 ## Arquitectura preliminar de datos (ciclo de vida, almacenamiento, procesamiento).
 
 
@@ -14,6 +18,6 @@ Análisis mas detallado acerca del proyecto a trabajar, ademas abordando mas pro
 
 ## Análisis de datos + tecnologías a utilizar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDM3MzAyMjYsLTIwODg3NDY2MTIsOT
+eyJoaXN0b3J5IjpbLTE4MzA5ODE1NjAsLTIwODg3NDY2MTIsOT
 gzNjQ2NTA2XX0=
 -->
