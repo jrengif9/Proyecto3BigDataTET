@@ -37,20 +37,17 @@ Apache storm es un sistema computacional de código abierto distribuido en tiemp
 
 ## Referencias
 
-[1] http://www.slmsc-project.eu/es/?page_id=2145
-
-[2] https://aws.amazon.com/es/streaming-data/
-
-[3] https://devs4j.com/2017/10/04/primeros-pasos-con-apache-kafka-en-espanol/
-
-[4] https://intellipaat.com/blog/what-is-apache-storm/
+- [1] http://www.slmsc-project.eu/es/?page_id=2145
+- [2] https://aws.amazon.com/es/streaming-data/
+- [3] https://devs4j.com/2017/10/04/primeros-pasos-con-apache-kafka-en-espanol/
+- [4] https://intellipaat.com/blog/what-is-apache-storm/
 
 **Imagenes**
 
-[1] http://muxiulin.cn/wp-content/uploads/2017/11/2f5d8fc1-c11d-4f91-aa0b-cdac4bd097fa.jpg
-[2] https://2xbbhjxc6wk3v21p62t8n4d4-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/storm_2.png
+- [1] http://muxiulin.cn/wp-content/uploads/2017/11/2f5d8fc1-c11d-4f91-aa0b-cdac4bd097fa.jpg
+- [2] https://2xbbhjxc6wk3v21p62t8n4d4-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/storm_2.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTM5NzU5OCwtNjYxMzM0Mzg4LC0xOD
-E2NjIxOTE1LC0yNDYwODE4Nyw5OTA3NDYwOTgsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbODUzNjI2MTA0LC02NjEzMzQzODgsLTE4MT
+Y2MjE5MTUsLTI0NjA4MTg3LDk5MDc0NjA5OCwtMjA4ODc0NjYx
+Ml19
 -->
